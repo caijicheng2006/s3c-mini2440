@@ -1,0 +1,5 @@
+on boot
+
+    insmod /system/lib/modules/Qn8035_fm_ctrl.ko
+
+    device  /dev/KT0812G_FM         666     system  audio  

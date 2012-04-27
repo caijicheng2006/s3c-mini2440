@@ -1,0 +1,316 @@
+api/current.xml:75054:<class name="FmConfig"
+api/current.xml:75062:<constructor name="FmConfig"
+api/current.xml:75063: type="android.hardware.fmradio.FmConfig"
+api/current.xml:75082:<parameter name="configSettings" type="android.hardware.fmradio.FmConfig">
+api/current.xml:75230:<class name="FmReceiver"
+api/current.xml:75231: extends="android.hardware.fmradio.FmTransceiver"
+api/current.xml:75238:<constructor name="FmReceiver"
+api/current.xml:75239: type="android.hardware.fmradio.FmReceiver"
+api/current.xml:75246:<constructor name="FmReceiver"
+api/current.xml:75247: type="android.hardware.fmradio.FmReceiver"
+api/current.xml:75255:<parameter name="callback" type="android.hardware.fmradio.FmRxEvCallbacksAdaptor">
+api/current.xml:75281:<parameter name="configSettings" type="android.hardware.fmradio.FmConfig">
+api/current.xml:75320: return="android.hardware.fmradio.FmRxRdsData"
+api/current.xml:75342: return="android.hardware.fmradio.FmRxRdsData"
+api/current.xml:75969:<class name="FmReceiverJNI"
+api/current.xml:75977:<constructor name="FmReceiverJNI"
+api/current.xml:75978: type="android.hardware.fmradio.FmReceiverJNI"
+api/current.xml:76029:<class name="FmRxControls"
+api/current.xml:76037:<constructor name="FmRxControls"
+api/current.xml:76038: type="android.hardware.fmradio.FmRxControls"
+api/current.xml:76276:<interface name="FmRxEvCallbacks"
+api/current.xml:76283:<method name="FmRxEvDisableReceiver"
+api/current.xml:76294:<method name="FmRxEvEnableReceiver"
+api/current.xml:76305:<method name="FmRxEvRadioTuneStatus"
+api/current.xml:76318:<method name="FmRxEvRdsAfInfo"
+api/current.xml:76329:<method name="FmRxEvRdsGroupData"
+api/current.xml:76340:<method name="FmRxEvRdsLockStatus"
+api/current.xml:76353:<method name="FmRxEvRdsPsInfo"
+api/current.xml:76364:<method name="FmRxEvRdsRtInfo"
+api/current.xml:76375:<method name="FmRxEvSearchComplete"
+api/current.xml:76388:<method name="FmRxEvSearchInProgress"
+api/current.xml:76399:<method name="FmRxEvSearchListComplete"
+api/current.xml:76410:<method name="FmRxEvServiceAvailable"
+api/current.xml:76423:<method name="FmRxEvStereoStatus"
+api/current.xml:76437:<class name="FmRxEvCallbacksAdaptor"
+api/current.xml:76445:<implements name="android.hardware.fmradio.FmRxEvCallbacks">
+api/current.xml:76447:<constructor name="FmRxEvCallbacksAdaptor"
+api/current.xml:76448: type="android.hardware.fmradio.FmRxEvCallbacksAdaptor"
+api/current.xml:76455:<method name="FmRxEvDisableReceiver"
+api/current.xml:76466:<method name="FmRxEvEnableReceiver"
+api/current.xml:76477:<method name="FmRxEvRadioTuneStatus"
+api/current.xml:76490:<method name="FmRxEvRdsAfInfo"
+api/current.xml:76501:<method name="FmRxEvRdsGroupData"
+api/current.xml:76512:<method name="FmRxEvRdsLockStatus"
+api/current.xml:76525:<method name="FmRxEvRdsPsInfo"
+api/current.xml:76536:<method name="FmRxEvRdsRtInfo"
+api/current.xml:76547:<method name="FmRxEvSearchComplete"
+api/current.xml:76560:<method name="FmRxEvSearchInProgress"
+api/current.xml:76571:<method name="FmRxEvSearchListComplete"
+api/current.xml:76582:<method name="FmRxEvServiceAvailable"
+api/current.xml:76595:<method name="FmRxEvStereoStatus"
+api/current.xml:76609:<class name="FmRxEventListener"
+api/current.xml:76629:<parameter name="cb" type="android.hardware.fmradio.FmRxEvCallbacks">
+api/current.xml:76644:<class name="FmRxRdsData"
+api/current.xml:76652:<constructor name="FmRxRdsData"
+api/current.xml:76653: type="android.hardware.fmradio.FmRxRdsData"
+api/current.xml:76815:<class name="FmTransceiver"
+api/current.xml:76823:<constructor name="FmTransceiver"
+api/current.xml:76824: type="android.hardware.fmradio.FmTransceiver"
+api/current.xml:76854:<parameter name="configSettings" type="android.hardware.fmradio.FmConfig">
+api/current.xml:76878:<parameter name="configSettings" type="android.hardware.fmradio.FmConfig">
+api/current.xml:76893:<parameter name="callback" type="android.hardware.fmradio.FmRxEvCallbacks">
+api/current.xml:76906:<parameter name="callback" type="android.hardware.fmradio.FmRxEvCallbacks">
+api/current.xml:77112: type="android.hardware.fmradio.FmRxControls"
+api/current.xml:77132: type="android.hardware.fmradio.FmRxRdsData"
+api/current.xml:77142: type="android.hardware.fmradio.FmRxEventListener"
+api/current.xml:77162:<class name="FmTransmitter"
+api/current.xml:77163: extends="android.hardware.fmradio.FmTransceiver"
+api/current.xml:77170:<constructor name="FmTransmitter"
+api/current.xml:77171: type="android.hardware.fmradio.FmTransmitter"
+api/current.xml:77178:<constructor name="FmTransmitter"
+api/current.xml:77179: type="android.hardware.fmradio.FmTransmitter"
+api/current.xml:77187:<parameter name="callbacks" type="android.hardware.fmradio.FmRxEvCallbacksAdaptor">
+api/current.xml:77200:<parameter name="configSettings" type="android.hardware.fmradio.FmConfig">
+api/current.xml:77204: return="android.hardware.fmradio.FmTransmitter.FmPSFeatures"
+api/current.xml:77352:<class name="FmTransmitter.FmPSFeatures"
+api/current.xml:77360:<constructor name="FmTransmitter.FmPSFeatures"
+api/current.xml:77361: type="android.hardware.fmradio.FmTransmitter.FmPSFeatures"
+api/current.xml:77389:<interface name="FmTransmitter.TransmitterCallbacks"
+api/current.xml:83308:<method name="isFmActive"
+api/.svn/text-base/current.xml.svn-base:80692:<method name="isFmActive"
+core/java/android/hardware/fmradio/FmRxEvCallbacks.java:30:interface FmRxEvCallbacks {
+core/java/android/hardware/fmradio/FmRxEvCallbacks.java:32:    public void FmRxEvEnableReceiver();
+core/java/android/hardware/fmradio/FmRxEvCallbacks.java:33:    public void FmRxEvDisableReceiver();
+core/java/android/hardware/fmradio/FmRxEvCallbacks.java:34:    public void FmRxEvRadioTuneStatus(int freq);
+core/java/android/hardware/fmradio/FmRxEvCallbacks.java:35:    public void FmRxEvRdsLockStatus(boolean rdsAvail);
+core/java/android/hardware/fmradio/FmRxEvCallbacks.java:36:    public void FmRxEvStereoStatus(boolean stereo);
+core/java/android/hardware/fmradio/FmRxEvCallbacks.java:37:    public void FmRxEvServiceAvailable(boolean service);
+core/java/android/hardware/fmradio/FmRxEvCallbacks.java:38:    public void FmRxEvSearchInProgress();
+core/java/android/hardware/fmradio/FmRxEvCallbacks.java:39:    public void FmRxEvSearchComplete(int freq);
+core/java/android/hardware/fmradio/FmRxEvCallbacks.java:40:    public void FmRxEvSearchListComplete();
+core/java/android/hardware/fmradio/FmRxEvCallbacks.java:41:    public void FmRxEvRdsGroupData();
+core/java/android/hardware/fmradio/FmRxEvCallbacks.java:42:    public void FmRxEvRdsPsInfo();
+core/java/android/hardware/fmradio/FmRxEvCallbacks.java:43:    public void FmRxEvRdsRtInfo();
+core/java/android/hardware/fmradio/FmRxEvCallbacks.java:44:    public void FmRxEvRdsAfInfo();
+core/java/android/hardware/fmradio/FmConfig.java:37:public class FmConfig {
+core/java/android/hardware/fmradio/FmConfig.java:67:     private static final String TAG = "FmConfig";
+core/java/android/hardware/fmradio/FmConfig.java:77:     * FmTransceiver.FM_DE_EMP75,
+core/java/android/hardware/fmradio/FmConfig.java:78:     * FmTransceiver.FM_DE_EMP50
+core/java/android/hardware/fmradio/FmConfig.java:86:     * FmTransceiver.FM_CHSPACE_200_KHZ,
+core/java/android/hardware/fmradio/FmConfig.java:87:     * FmTransceiver.FM_CHSPACE_100_KHZ,
+core/java/android/hardware/fmradio/FmConfig.java:88:     * FmTransceiver.FM_CHSPACE_50_KHZ
+core/java/android/hardware/fmradio/FmConfig.java:97:     * FmTransceiver.FM_RDS_STD_RBDS,
+core/java/android/hardware/fmradio/FmConfig.java:98:     * FmTransceiver.FM_RDS_STD_RDS,
+core/java/android/hardware/fmradio/FmConfig.java:99:     * FmTransceiver.FM_RDS_STD_NONE
+core/java/android/hardware/fmradio/FmConfig.java:165:    protected static boolean fmConfigure (int fd, FmConfig configSettings) {
+core/java/android/hardware/fmradio/FmConfig.java:171:        re = FmReceiverJNI.setControlNative (fd, V4L2_CID_PRIVATE_TAVARUA_EMPHASIS, configSettings.getEmphasis());
+core/java/android/hardware/fmradio/FmConfig.java:172:        re = FmReceiverJNI.setControlNative (fd, V4L2_CID_PRIVATE_TAVARUA_RDS_STD, configSettings.getRdsStd() );
+core/java/android/hardware/fmradio/FmConfig.java:173:        re = FmReceiverJNI.setControlNative (fd, V4L2_CID_PRIVATE_TAVARUA_SPACING, configSettings.getChSpacing() );
+core/java/android/hardware/fmradio/FmConfig.java:174:        re = FmReceiverJNI.setBandNative    (fd, configSettings.getLowerLimit(), configSettings.getUpperLimit() );
+core/java/android/hardware/fmradio/FmConfig.java:176:        re = FmReceiverJNI.setControlNative (fd, V4L2_CID_PRIVATE_TAVARUA_REGION, FM_USER_DEFINED_BAND );
+core/java/android/hardware/fmradio/FmTransceiver.java:33:/** <code>FmTransceiver</code> is the superclass of classes
+core/java/android/hardware/fmradio/FmTransceiver.java:34: * <code>FmReceiver</code> and <code>FmTransmitter</code>
+core/java/android/hardware/fmradio/FmTransceiver.java:36:public class FmTransceiver
+core/java/android/hardware/fmradio/FmTransceiver.java:99:   private final String TAG = "FmTransceiver";
+core/java/android/hardware/fmradio/FmTransceiver.java:102:   protected FmRxControls mControl;
+core/java/android/hardware/fmradio/FmTransceiver.java:104:   protected FmRxEventListener mRxEvents;
+core/java/android/hardware/fmradio/FmTransceiver.java:105:   protected FmRxRdsData mRdsData;
+core/java/android/hardware/fmradio/FmTransceiver.java:131:         sFd = FmReceiverJNI.acquireFdNative("/dev/KT0812G_FM");
+core/java/android/hardware/fmradio/FmTransceiver.java:179:         FmReceiverJNI.closeFdNative(sFd);
+core/java/android/hardware/fmradio/FmTransceiver.java:220:   public boolean registerClient(FmRxEvCallbacks callback){
+core/java/android/hardware/fmradio/FmTransceiver.java:287:   public boolean registerTransmitClient(FmRxEvCallbacks callback){
+core/java/android/hardware/fmradio/FmTransceiver.java:353:   public boolean enable (FmConfig configSettings, int device){
+core/java/android/hardware/fmradio/FmTransceiver.java:360:      return FmConfig.fmConfigure (sFd, configSettings);
+core/java/android/hardware/fmradio/FmTransceiver.java:408:   public boolean configure(FmConfig configSettings){
+core/java/android/hardware/fmradio/FmTransceiver.java:412:      status = FmConfig.fmConfigure (sFd, configSettings);
+core/java/android/hardware/fmradio/FmTransceiver.java:430:    *    event callback FmRxEvRadioTuneStatus will be called.
+core/java/android/hardware/fmradio/FmRxRdsData.java:33:public class FmRxRdsData {
+core/java/android/hardware/fmradio/FmRxRdsData.java:56:    private static final String LOGTAG="FmRxRdsData";
+core/java/android/hardware/fmradio/FmRxRdsData.java:59:    public FmRxRdsData (int fd)
+core/java/android/hardware/fmradio/FmRxRdsData.java:73:        ret = FmReceiverJNI.setControlNative (mFd, V4L2_CID_PRIVATE_TAVARUA_RDSON, 1);
+core/java/android/hardware/fmradio/FmRxRdsData.java:76:        ret = FmReceiverJNI.setControlNative (mFd, V4L2_CID_PRIVATE_TAVARUA_RDSON, 0);
+core/java/android/hardware/fmradio/FmRxRdsData.java:92:        byte rds_group_mask = (byte)FmReceiverJNI.getControlNative(mFd, V4L2_CID_PRIVATE_TAVARUA_RDSGROUP_PROC);
+core/java/android/hardware/fmradio/FmRxRdsData.java:104:        re = FmReceiverJNI.setControlNative(mFd, V4L2_CID_PRIVATE_TAVARUA_RDSGROUP_PROC, rds_group_mask);
+core/java/android/hardware/fmradio/FmRxRdsData.java:109:        re = FmReceiverJNI.setControlNative(mFd, V4L2_CID_PRIVATE_TAVARUA_RDSD_BUF, buffSize);
+core/java/android/hardware/fmradio/FmRxRdsData.java:115:        re = FmReceiverJNI.setControlNative(mFd, V4L2_CID_PRIVATE_TAVARUA_RDSGROUP_MASK, grpMask);
+core/java/android/hardware/fmradio/FmRxRdsData.java:129:        byte rds_group_mask = (byte)FmReceiverJNI.getControlNative(mFd, V4L2_CID_PRIVATE_TAVARUA_RDSGROUP_PROC);
+core/java/android/hardware/fmradio/FmRxRdsData.java:142:        re = FmReceiverJNI.setControlNative(mFd, V4L2_CID_PRIVATE_TAVARUA_RDSGROUP_PROC, rds_group_mask);
+core/java/android/hardware/fmradio/FmRxRdsData.java:144:        re = FmReceiverJNI.setControlNative(mFd, V4L2_CID_PRIVATE_TAVARUA_PSALL, psAllVal >> 4 );
+core/java/android/hardware/fmradio/FmRxRdsData.java:157:      int rds_group_mask = FmReceiverJNI.getControlNative(mFd, V4L2_CID_PRIVATE_TAVARUA_RDSGROUP_PROC);
+core/java/android/hardware/fmradio/FmRxRdsData.java:162:        FmReceiverJNI.setControlNative(mFd ,V4L2_CID_PRIVATE_TAVARUA_RDSGROUP_PROC,
+core/java/android/hardware/fmradio/FmRxRdsData.java:166:        FmReceiverJNI.setControlNative(mFd, V4L2_CID_PRIVATE_TAVARUA_RDSGROUP_PROC,
+core/java/android/hardware/fmradio/FmTransmitter.java:33:public class FmTransmitter extends FmTransceiver
+core/java/android/hardware/fmradio/FmTransmitter.java:66:   public FmTransmitter(){
+core/java/android/hardware/fmradio/FmTransmitter.java:67:      mControl = new FmRxControls();
+core/java/android/hardware/fmradio/FmTransmitter.java:68:      mRdsData = new FmRxRdsData(sFd);
+core/java/android/hardware/fmradio/FmTransmitter.java:69:      mRxEvents = new FmRxEventListener();
+core/java/android/hardware/fmradio/FmTransmitter.java:76:   public FmTransmitter(String path, FmRxEvCallbacksAdaptor callbacks){
+core/java/android/hardware/fmradio/FmTransmitter.java:78:   //  public FmTransmitter(String path, FMTransmitterCallbacksAdaptor adaptor){
+core/java/android/hardware/fmradio/FmTransmitter.java:81:      mControl = new FmRxControls();
+core/java/android/hardware/fmradio/FmTransmitter.java:82:      mRdsData = new FmRxRdsData(sFd);
+core/java/android/hardware/fmradio/FmTransmitter.java:83:      mRxEvents = new FmRxEventListener();
+core/java/android/hardware/fmradio/FmTransmitter.java:121:   public boolean enable (FmConfig configSettings){
+core/java/android/hardware/fmradio/FmTransmitter.java:127:      status = super.enable(configSettings, FmTransceiver.FM_TX);
+core/java/android/hardware/fmradio/FmTransmitter.java:174:    *  FmPSFeatures.maxPSCharacters. Although the RDS/RBDS
+core/java/android/hardware/fmradio/FmTransmitter.java:185:    *  (FmPSFeatures.maxPSStringRepeatCount). When using the
+core/java/android/hardware/fmradio/FmTransmitter.java:196:   public FmPSFeatures getPSFeatures(){
+core/java/android/hardware/fmradio/FmTransmitter.java:197:      FmPSFeatures psFeatures = new FmPSFeatures();
+core/java/android/hardware/fmradio/FmTransmitter.java:548:   public class FmPSFeatures
+core/java/android/hardware/fmradio/FmRxEventListener.java:34:class FmRxEventListener {
+core/java/android/hardware/fmradio/FmRxEventListener.java:39:    private enum FmRxEvents {
+core/java/android/hardware/fmradio/FmRxEventListener.java:61:    public void startListener (final int fd, final FmRxEvCallbacks cb) {
+core/java/android/hardware/fmradio/FmRxEventListener.java:71:                    int i = FmReceiverJNI.getBufferNative (fd, buff, EVENT_LISTEN);
+core/java/android/hardware/fmradio/FmRxEventListener.java:78:                        cb.FmRxEvEnableReceiver();
+core/java/android/hardware/fmradio/FmRxEventListener.java:82:                        cb.FmRxEvRadioTuneStatus(FmReceiverJNI.getFreqNative(fd));
+core/java/android/hardware/fmradio/FmRxEventListener.java:86:                        cb.FmRxEvSearchComplete(FmReceiverJNI.getFreqNative(fd));
+core/java/android/hardware/fmradio/FmRxEventListener.java:90:                        cb.FmRxEvSearchInProgress();
+core/java/android/hardware/fmradio/FmRxEventListener.java:94:                        cb.FmRxEvRdsGroupData();
+core/java/android/hardware/fmradio/FmRxEventListener.java:98:                        cb.FmRxEvRdsRtInfo();
+core/java/android/hardware/fmradio/FmRxEventListener.java:102:                        cb.FmRxEvRdsPsInfo();
+core/java/android/hardware/fmradio/FmRxEventListener.java:109:                        cb.FmRxEvServiceAvailable (false);
+core/java/android/hardware/fmradio/FmRxEventListener.java:113:                        cb.FmRxEvServiceAvailable(true);
+core/java/android/hardware/fmradio/FmRxEventListener.java:117:                        cb.FmRxEvStereoStatus (true);
+core/java/android/hardware/fmradio/FmRxEventListener.java:121:                        cb.FmRxEvStereoStatus (false);
+core/java/android/hardware/fmradio/FmRxEventListener.java:125:                        cb.FmRxEvRdsLockStatus (true);
+core/java/android/hardware/fmradio/FmRxEventListener.java:129:                        cb.FmRxEvRdsLockStatus (false);
+core/java/android/hardware/fmradio/FmRxEventListener.java:133:                        cb.FmRxEvSearchListComplete ();
+core/java/android/hardware/fmradio/FmRxEventListener.java:137:                        cb.FmRxEvRdsAfInfo();
+core/java/android/hardware/fmradio/FmReceiver.java:37:public class FmReceiver extends FmTransceiver
+core/java/android/hardware/fmradio/FmReceiver.java:259:   private FmRxEvCallbacksAdaptor mCallback;
+core/java/android/hardware/fmradio/FmReceiver.java:277:   public FmReceiver(){
+core/java/android/hardware/fmradio/FmReceiver.java:278:      mControl = new FmRxControls();
+core/java/android/hardware/fmradio/FmReceiver.java:279:      mRdsData = new FmRxRdsData (sFd);
+core/java/android/hardware/fmradio/FmReceiver.java:280:      mRxEvents = new FmRxEventListener();
+core/java/android/hardware/fmradio/FmReceiver.java:292:   public FmReceiver(String devicePath,
+core/java/android/hardware/fmradio/FmReceiver.java:293:                     FmRxEvCallbacksAdaptor callback) throws InstantiationException {
+core/java/android/hardware/fmradio/FmReceiver.java:294:      mControl = new FmRxControls();
+core/java/android/hardware/fmradio/FmReceiver.java:295:      mRxEvents = new FmRxEventListener();
+core/java/android/hardware/fmradio/FmReceiver.java:303:      mRdsData = new FmRxRdsData(sFd);
+core/java/android/hardware/fmradio/FmReceiver.java:341:   public boolean registerClient(FmRxEvCallbacks callback){
+core/java/android/hardware/fmradio/FmReceiver.java:408:   public boolean enable (FmConfig configSettings){
+core/java/android/hardware/fmradio/FmReceiver.java:414:      status = super.enable(configSettings, FmTransceiver.FM_RX);
+core/java/android/hardware/fmradio/FmReceiver.java:469:   *    completed and a FmRxEvSearchComplete event will be returned
+core/java/android/hardware/fmradio/FmReceiver.java:476:   *    FmRxEvRadioTuneStatus event to the client/application
+core/java/android/hardware/fmradio/FmReceiver.java:486:   *    tuned, an FmRxEvRadioTuneStatus event will be returned to
+core/java/android/hardware/fmradio/FmReceiver.java:489:   *    After that time expires, an FmRxEvSearchInProgress event
+core/java/android/hardware/fmradio/FmReceiver.java:493:   *    initiated by the client, an FmRxEvRadioTuneStatus event
+core/java/android/hardware/fmradio/FmReceiver.java:499:   *    will be notified via an FmRxEvSearchInProgress event.
+core/java/android/hardware/fmradio/FmReceiver.java:501:   *    FmRxEvRadioTuneStatus event.
+core/java/android/hardware/fmradio/FmReceiver.java:508:   *    last tuned station and generate both FmRxEvSearchComplete and
+core/java/android/hardware/fmradio/FmReceiver.java:509:   *    FmRxEvRadioTuneStatus events.
+core/java/android/hardware/fmradio/FmReceiver.java:621:   *    notified via a FmRxEvSearchInProgress event. Similarly, each
+core/java/android/hardware/fmradio/FmReceiver.java:623:   *    FmRxEvSearchComplete event.
+core/java/android/hardware/fmradio/FmReceiver.java:633:   *    FmRxEvSearchComplete and FmRxEvRadioTuneStatus events.
+core/java/android/hardware/fmradio/FmReceiver.java:725:   *    notified via an FmRxEvSearchInProgress event. Similarly, each
+core/java/android/hardware/fmradio/FmReceiver.java:727:   *    notified via an FmRxEvSearchListComplete event.
+core/java/android/hardware/fmradio/FmReceiver.java:731:   *    FmRxEvSearchListComplete - The search has completed.
+core/java/android/hardware/fmradio/FmReceiver.java:732:   *    FmRxEvRadioTuneStatus - The original frequency has been
+core/java/android/hardware/fmradio/FmReceiver.java:838:   * FmRxEvSearchCancelledtr event to all registered clients.
+core/java/android/hardware/fmradio/FmReceiver.java:949:   *    well as at what threshold FmRxEvServiceAvailable event
+core/java/android/hardware/fmradio/FmReceiver.java:958:   *    FmRxEvServiceAvailable event callback is generated.
+core/java/android/hardware/fmradio/FmReceiver.java:981:        re=FmReceiverJNI.setControlNative (sFd, V4L2_CID_PRIVATE_TAVARUA_SIGNAL_TH, threshold);
+core/java/android/hardware/fmradio/FmReceiver.java:1007:   *    FmRxEvStationParameters event to the registered client.
+core/java/android/hardware/fmradio/FmReceiver.java:1011:   *    @return      FmStationParameters: Object that contains
+core/java/android/hardware/fmradio/FmReceiver.java:1013:   public FmStationParameters getStationParameters () {
+core/java/android/hardware/fmradio/FmReceiver.java:1030:      int frequency = FmReceiverJNI.getFreqNative(sFd);
+core/java/android/hardware/fmradio/FmReceiver.java:1054:   *    Typicaly this method needs to be called when "FmRxEvRdsPsInfo"
+core/java/android/hardware/fmradio/FmReceiver.java:1062:   public FmRxRdsData  getPSInfo() {
+core/java/android/hardware/fmradio/FmReceiver.java:1068:      FmReceiverJNI.getBufferNative(sFd, buff, 3);
+core/java/android/hardware/fmradio/FmReceiver.java:1111:   *    "FmRxEvRdsRtInfo" callback is invoked.
+core/java/android/hardware/fmradio/FmReceiver.java:1116:   public FmRxRdsData getRTInfo () {
+core/java/android/hardware/fmradio/FmReceiver.java:1122:      FmReceiverJNI.getBufferNative(sFd, buff, 2);
+core/java/android/hardware/fmradio/FmReceiver.java:1162:   *    "FmRxEvRdsAfInfo" callback is invoked.
+core/java/android/hardware/fmradio/FmReceiver.java:1172:      FmReceiverJNI.getBufferNative(sFd, buff, TAVARUA_BUF_AF_LIST);
+core/java/android/hardware/fmradio/FmReceiver.java:1177:      lowerBand = FmReceiverJNI.getLowerBandNative(sFd);
+core/java/android/hardware/fmradio/FmReceiver.java:1298:   *    threshold FmRxEvServiceAvailable are generated.
+core/java/android/hardware/fmradio/FmReceiver.java:1309:   *    FmRxEvGetSignalThreshold event to the registered client.
+core/java/android/hardware/fmradio/FmReceiver.java:1318: //     return FmReceiverJNI.getControlNative (sFd, V4L2_CID_PRIVATE_TAVARUA_SIGNAL_TH);
+core/java/android/hardware/fmradio/FmReceiver.java:1347:   *    FmRxEvRdsGroupData callback.
+core/java/android/hardware/fmradio/FmReceiver.java:1410:   *    form of a FmRxEvRdsRtInfo event. This event will be
+core/java/android/hardware/fmradio/FmReceiver.java:1418:   *    of a FmRxEvRdsPsInfo event. This event will be generated
+core/java/android/hardware/fmradio/FmReceiver.java:1425:   *    argument FmGrpsToProc, the FM hardware or driver will
+core/java/android/hardware/fmradio/FmReceiver.java:1427:   *    Frequency information in the form of a FmRxEvRdsAfInfo
+core/java/android/hardware/fmradio/FmReceiver.java:1434:   *    argument FmGrpsToProc, the FM hardware or driver will
+core/java/android/hardware/fmradio/FmReceiver.java:1504:   *    FmRxEvSearchListComplete is invoked.
+core/java/android/hardware/fmradio/FmReceiver.java:1538:       int rssi = FmReceiverJNI.getRSSINative (sFd);
+core/java/android/hardware/fmradio/FmReceiver.java:1564:       int re = FmReceiverJNI.getControlNative (sFd, V4L2_CID_PRIVATE_TAVARUA_ANTENNA);
+core/java/android/hardware/fmradio/FmReceiver.java:1597:       int re = FmReceiverJNI.setControlNative (sFd, V4L2_CID_PRIVATE_TAVARUA_ANTENNA, iAntenna);
+core/java/android/hardware/fmradio/FmReceiver.java:1633:        re = FmReceiverJNI.getRawRdsNative (sFd, rawRds, numBlocks*3);
+core/java/android/hardware/fmradio/FmRxControls.java:37:public class FmRxControls
+core/java/android/hardware/fmradio/FmRxControls.java:53:   private static final String TAG = "FmRxControls";
+core/java/android/hardware/fmradio/FmRxControls.java:91:      FmReceiverJNI.setControlNative(fd, V4L2_CID_PRIVATE_TAVARUA_STATE, 1);	
+core/java/android/hardware/fmradio/FmRxControls.java:98:      FmReceiverJNI.setControlNative(fd, V4L2_CID_PRIVATE_TAVARUA_STATE, 0 );
+core/java/android/hardware/fmradio/FmRxControls.java:107:         int err = FmReceiverJNI.setControlNative(fd, V4L2_CID_AUDIO_MUTE, 1 );
+core/java/android/hardware/fmradio/FmRxControls.java:111:         int err = FmReceiverJNI.setControlNative(fd, V4L2_CID_AUDIO_MUTE, 0 );
+core/java/android/hardware/fmradio/FmRxControls.java:120:		return FmReceiverJNI.setControlNative(fd, V4L2_CID_AUDIO_VOLUME, value);
+core/java/android/hardware/fmradio/FmRxControls.java:128:      int ret = FmReceiverJNI.setFreqNative(fd, mFreq);
+core/java/android/hardware/fmradio/FmRxControls.java:136:      int frequency = FmReceiverJNI.getFreqNative(fd);
+core/java/android/hardware/fmradio/FmRxControls.java:163:         lowBand = (float) (FmReceiverJNI.getLowerBandNative(fd) / 1000.00);
+core/java/android/hardware/fmradio/FmRxControls.java:165:         FmReceiverJNI.getBufferNative(fd, sList, 0);
+core/java/android/hardware/fmradio/FmRxControls.java:205:		re = FmReceiverJNI.setFreqNative(fd, stationFreq);
+core/java/android/hardware/fmradio/FmRxControls.java:212:		re = FmReceiverJNI.startSearchNative (fd, mSrchDir);
+core/java/android/hardware/fmradio/FmRxControls.java:219:		re = FmReceiverJNI.getFreqNative(fd);
+core/java/android/hardware/fmradio/FmRxControls.java:255:      re = FmReceiverJNI.setControlNative (fd, V4L2_CID_PRIVATE_TAVARUA_SRCHMODE, mode);
+core/java/android/hardware/fmradio/FmRxControls.java:257:      re = FmReceiverJNI.setControlNative (fd, V4L2_CID_PRIVATE_TAVARUA_SCANDWELL, dwell);
+core/java/android/hardware/fmradio/FmRxControls.java:261:         re = FmReceiverJNI.setControlNative (fd, V4L2_CID_PRIVATE_TAVARUA_SRCH_PTY, pty);
+core/java/android/hardware/fmradio/FmRxControls.java:266:         re = FmReceiverJNI.setControlNative (fd, V4L2_CID_PRIVATE_TAVARUA_SRCH_PI, pi);
+core/java/android/hardware/fmradio/FmRxControls.java:269:      re = FmReceiverJNI.startSearchNative (fd, freq, dir, timeout, reserve);
+core/java/android/hardware/fmradio/FmRxControls.java:277:       return  FmReceiverJNI.setMonoStereoNative (fd, 1);
+core/java/android/hardware/fmradio/FmRxControls.java:280:       return  FmReceiverJNI.setMonoStereoNative (fd, 0);
+core/java/android/hardware/fmradio/FmRxControls.java:298:      FmReceiverJNI.cancelSearchNative(fd);
+core/java/android/hardware/fmradio/FmRxControls.java:308:        re = FmReceiverJNI.setControlNative (fd, V4L2_CID_PRIVATE_TAVARUA_LP_MODE, 1);
+core/java/android/hardware/fmradio/FmRxControls.java:311:        re = FmReceiverJNI.setControlNative (fd, V4L2_CID_PRIVATE_TAVARUA_LP_MODE, 0);
+core/java/android/hardware/fmradio/FmRxControls.java:323://    re = FmReceiverJNI.getControlNative (fd, V4L2_CID_PRIVATE_TAVARUA_LP_MODE);
+core/java/android/hardware/fmradio/FmReceiverJNI.java:31:public class FmReceiverJNI {
+core/java/android/hardware/fmradio/FmRxEvCallbacksAdaptor.java:36:public class FmRxEvCallbacksAdaptor implements FmRxEvCallbacks {
+core/java/android/hardware/fmradio/FmRxEvCallbacksAdaptor.java:37:    public void FmRxEvEnableReceiver() {};
+core/java/android/hardware/fmradio/FmRxEvCallbacksAdaptor.java:38:    public void FmRxEvDisableReceiver() {};
+core/java/android/hardware/fmradio/FmRxEvCallbacksAdaptor.java:39:    public void FmRxEvRadioTuneStatus(int freq) {};
+core/java/android/hardware/fmradio/FmRxEvCallbacksAdaptor.java:40:    public void FmRxEvRdsLockStatus(boolean rdsAvail) {};
+core/java/android/hardware/fmradio/FmRxEvCallbacksAdaptor.java:41:    public void FmRxEvStereoStatus(boolean stereo) {};
+core/java/android/hardware/fmradio/FmRxEvCallbacksAdaptor.java:42:    public void FmRxEvServiceAvailable(boolean service) {};
+core/java/android/hardware/fmradio/FmRxEvCallbacksAdaptor.java:43:    public void FmRxEvSearchInProgress() {};
+core/java/android/hardware/fmradio/FmRxEvCallbacksAdaptor.java:44:    public void FmRxEvSearchComplete(int freq) {};
+core/java/android/hardware/fmradio/FmRxEvCallbacksAdaptor.java:45:    public void FmRxEvSearchListComplete() {};
+core/java/android/hardware/fmradio/FmRxEvCallbacksAdaptor.java:46:    public void FmRxEvRdsGroupData() {};
+core/java/android/hardware/fmradio/FmRxEvCallbacksAdaptor.java:47:    public void FmRxEvRdsPsInfo() {};
+core/java/android/hardware/fmradio/FmRxEvCallbacksAdaptor.java:48:    public void FmRxEvRdsRtInfo() {};
+core/java/android/hardware/fmradio/FmRxEvCallbacksAdaptor.java:49:    public void FmRxEvRdsAfInfo() {};
+core/jni/android_hardware_fm.cpp:73:static jint android_hardware_fmradio_FmReceiverJNI_acquireFdNative
+core/jni/android_hardware_fm.cpp:101:static jint android_hardware_fmradio_FmReceiverJNI_closeFdNative
+core/jni/android_hardware_fm.cpp:113:static jint android_hardware_fmradio_FmReceiverJNI_getFreqNative
+core/jni/android_hardware_fm.cpp:126:static jint android_hardware_fmradio_FmReceiverJNI_setFreqNative
+core/jni/android_hardware_fm.cpp:139:static jint android_hardware_fmradio_FmReceiverJNI_setControlNative
+core/jni/android_hardware_fm.cpp:182:static jint android_hardware_fmradio_FmReceiverJNI_getControlNative
+core/jni/android_hardware_fm.cpp:189:static jint android_hardware_fmradio_FmReceiverJNI_startSearchNative
+core/jni/android_hardware_fm.cpp:235:static jint android_hardware_fmradio_FmReceiverJNI_cancelSearchNative
+core/jni/android_hardware_fm.cpp:247:static jint android_hardware_fmradio_FmReceiverJNI_getRSSINative
+core/jni/android_hardware_fm.cpp:255:static jint android_hardware_fmradio_FmReceiverJNI_setBandNative
+core/jni/android_hardware_fm.cpp:263:static jint android_hardware_fmradio_FmReceiverJNI_setRegionNative
+core/jni/android_hardware_fm.cpp:271:static jint android_hardware_fmradio_FmReceiverJNI_getLowerBandNative
+core/jni/android_hardware_fm.cpp:278:static jint android_hardware_fmradio_FmReceiverJNI_setMonoStereoNative
+core/jni/android_hardware_fm.cpp:286:static jint android_hardware_fmradio_FmReceiverJNI_getBufferNative
+core/jni/android_hardware_fm.cpp:294:static jint android_hardware_fmradio_FmReceiverJNI_getRawRdsNative
+core/jni/android_hardware_fm.cpp:306:            (void*)android_hardware_fmradio_FmReceiverJNI_acquireFdNative},
+core/jni/android_hardware_fm.cpp:308:            (void*)android_hardware_fmradio_FmReceiverJNI_closeFdNative},
+core/jni/android_hardware_fm.cpp:310:            (void*)android_hardware_fmradio_FmReceiverJNI_getFreqNative},
+core/jni/android_hardware_fm.cpp:312:            (void*)android_hardware_fmradio_FmReceiverJNI_setFreqNative},
+core/jni/android_hardware_fm.cpp:314:            (void*)android_hardware_fmradio_FmReceiverJNI_getControlNative},
+core/jni/android_hardware_fm.cpp:316:            (void*)android_hardware_fmradio_FmReceiverJNI_setControlNative},
+core/jni/android_hardware_fm.cpp:318:            (void*)android_hardware_fmradio_FmReceiverJNI_startSearchNative},
+core/jni/android_hardware_fm.cpp:320:            (void*)android_hardware_fmradio_FmReceiverJNI_cancelSearchNative},
+core/jni/android_hardware_fm.cpp:322:            (void*)android_hardware_fmradio_FmReceiverJNI_getRSSINative},
+core/jni/android_hardware_fm.cpp:324:            (void*)android_hardware_fmradio_FmReceiverJNI_setBandNative},
+core/jni/android_hardware_fm.cpp:326:            (void*)android_hardware_fmradio_FmReceiverJNI_setRegionNative},
+core/jni/android_hardware_fm.cpp:328:            (void*)android_hardware_fmradio_FmReceiverJNI_getLowerBandNative},
+core/jni/android_hardware_fm.cpp:330:            (void*)android_hardware_fmradio_FmReceiverJNI_getBufferNative},
+core/jni/android_hardware_fm.cpp:332:            (void*)android_hardware_fmradio_FmReceiverJNI_setMonoStereoNative},
+core/jni/android_hardware_fm.cpp:334:            (void*)android_hardware_fmradio_FmReceiverJNI_getRawRdsNative},
+core/jni/android_hardware_fm.cpp:339:	return AndroidRuntime::registerNativeMethods(env, "android/hardware/fmradio/FmReceiverJNI", gMethods, NELEM(gMethods));
+services/java/com/android/server/am/ActivityManagerService.java:74:import android.hardware.fmradio.FmReceiverJNI;
+services/java/com/android/server/am/ActivityManagerService.java:75:import android.hardware.fmradio.FmRxControls;
+services/java/com/android/server/am/ActivityManagerService.java:5313:                int sFd = FmReceiverJNI.acquireFdNative("/dev/KT0812G_FM");
+services/java/com/android/server/am/ActivityManagerService.java:5314:                FmReceiverJNI.setControlNative(sFd, FmRxControls.V4L2_CID_PRIVATE_TAVARUA_STATE, 0);
+services/java/com/android/server/am/ActivityManagerService.java:5315:                FmReceiverJNI.closeFdNative(sFd);
+
