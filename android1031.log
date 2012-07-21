@@ -1,0 +1,46 @@
+export ARCH=arm
+export CROSS_COMPILE=/home/lijx/myandroid-r1031/prebuilt/linux-x86/toolchain/arm-eabi-4.4.0/bin/arm-eabi-
+export PATH=/home/lijx/myandroid-r1031/bootable/bootloader/uboot-imx/tools:$PATH
+
+export JAVA_HOME=/opt/jdk1.6.0_24
+export JRE_HOME=/opt/jdk1.6.0_24/jre
+export CLASSPATH=$JAVA_HOME/lib:$JRE_HOME/lib:$CLASSPATH
+export PATH=$JAVA_HOME/bin:$JRE_HOME/bin:$PATH
+
+
+cd /home/lijx/myandroid-r1031/bootable/bootloader/uboot-imx
+make distclean
+make mx51_bbg_android_config
+make mx51_m970_config
+make mx51_m970_v4_inand_config
+make mx51_m970_v4_nand_config
+make mx53_m703_android_config
+make
+dd if=./u-boot.bin of=./u-boot-no-padding.bin bs=1024 skip=1
+sudo dd if=./u-boot-no-padding.bin of=/dev/sdb  bs=1K seek=1
+
+cd /home/lijx/myandroid-r1031/kernel_imx
+cp m970.config .config
+cp m970_v4_inand.config .config
+cp m970_v4_nand.config .config
+cp m703.config .config
+make uImage
+sudo dd if=./arch/arm/boot/uImage of=/dev/sdb bs=512k seek=1
+
+
+cd /home/lijx/myandroid-r1031
+make PRODUCT-imx51_m970-user 2>&1 | tee build_imx51_m970_android.log
+make PRODUCT-imx53_m703-user 2>&1 | tee build_imx53_m703_android.log
+sudo dd if=out/target/product/imx51_m970/system.img of=/dev/sdb2 bs=1M
+
+cd /home/lijx/myandroid-r1031
+. ./build/envsetup.sh
+lunch imx51_m970-user
+lunch imx53_m703-user
+
+
+java -jar /work/android2.3.4_r1031/out/host/linux-x86/framework/dumpkey.jar ~/www/r1031/build/target/product/security/testkey.x509.pem > keys
+cp keys ./res
+zip recovery.zip -ry ./META-INF ./system ./res ./files
+java -jar -Xms800m -Xmx800m /work/android2.3.4_r1031/out/host/linux-x86/framework/signapk.jar -w /work/android2.3.4_r1031/build/target/product/security/testkey.x509.pem /work/android2.3.4_r1031/build/target/product/security/testkey.pk8 recovery.zip update.zip
+
