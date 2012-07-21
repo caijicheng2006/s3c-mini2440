@@ -1,0 +1,77 @@
+
+1. 服务器安装ssh,git, python-setuptools
+sudo apt-get install openssh-server openssh-client
+sudo apt-get install git-core
+sudo apt-get install python-setuptools
+2. 服务器安装gitosis
+cd /tmp
+#git clone git://eagain.net/gitosis.git
+git clone https://github.com/res0nat0r/gitosis.git
+git clone git://github.com/res0nat0r/gitosis.git
+cd gitosis
+sudo python setup.py install
+
+3. 客户端
+sudo apt-get install openssh-server openssh-client
+sudo apt-get install git-core
+ssh-keygen -t rsa
+scp .ssh/id_rsa.pub cjcheng@192.168.1.108:/tmp
+
+4. 服务器配置 git服务器 
+
+创建git服务器管理用户 
+
+sudo useradd -m git
+sudo passwd git
+vim /etc/passwd //将git /bin/sh改为/bin/bash
+sudo mkdir /home/git/repositories 
+sudo chown git:git /home/git/repositories
+sudo chmod 755 /home/git/repositories
+
+git config --global user.name "cjcheng"
+git config --global user.email "caijicheng2006@163.com"
+
+5. 服务器初始化gitosis
+
+sudo -H -u git gitosis-init < /tmp/id_rsa.pub
+sudo chmod 755 /home/git/repositories/gitosis-admin.git/hooks/post-update
+
+6. 客户端clone gitosis
+git clone git@192.168.1.108:gitosis-admin.git
+
+
+7. 客户端创建test.git
+sudo vim gitosis-admin/gitosis.conf
+[group test]
+members = cjcheng@cjcheng
+writable = test
+提交
+git add .
+git commit -m "add test project"
+git push origin master
+
+mkdir test
+cd test
+git init
+echo "hello" > readme
+git add .
+git commit -m "readme"
+git remote add origin git@192.168.1.108:test.git
+git push origin master
+
+8.另一个客户端git clone
+su cjc
+ssh-keygen -t rsa
+exit
+cp ~/.ssh/id_rsa.pub ~/gitosis-admin/keydir/cjc@cjcheng.pub
+sudo sudo vim gitosis-admin/gitosis.conf
+[group test]
+members = cjcheng@cjcheng cjc@cjcheng
+writable = test
+git add .
+git commit -m "add user cjc"
+git push origin master
+
+git clone git@192.168.1.108:test.git
+
+
