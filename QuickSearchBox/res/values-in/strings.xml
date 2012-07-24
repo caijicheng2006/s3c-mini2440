@@ -1,0 +1,35 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Cari</string>
+    <string name="search_widget">Cari</string>
+    <string name="search_widget_config_ok">"OK"</string>
+    <string name="corpus_selection_heading">Cari</string>
+    <string name="corpus_label_global">"Semua"</string>
+    <string name="corpus_label_web">"Web"</string>
+    <string name="corpus_description_web">"Pencarian web, penunjuk dan riwayat browser"</string>
+    <string name="corpus_label_apps">"Apps"</string>
+    <string name="corpus_description_apps">"Nama aplikasi yang terpasang"</string>
+    <string name="corpus_hint_apps">"Telusuri aplikasi"</string>
+    <string name="corpus_label_apps_market">"Apps dan market"</string>
+    <string name="corpus_description_apps_market">"Aplikasi dan aplikasi dari pasar yang terpasang"</string>
+    <string name="corpus_hint_apps_market">"Telusuri apikasi dan market"</string>
+    <string name="menu_settings">"Pengaturan penelusuran"</string>
+    <string name="search_settings">"Pengaturan penelusuran"</string>
+    <string name="web_search_category_title">"Web"</string>
+    <string name="system_search_category_title">Telepon</string>
+    <string name="search_sources">"Barang yang dapat ditelusuri"</string>
+    <string name="search_sources_summary">"Pilih apa yang ingin dicari di telepon"</string>
+    <string name="clear_shortcuts">"Hapus cara singkat"</string>
+    <string name="clear_shortcuts_summary">"Hapus cara singkat sampai pencarian yang baru-baru ini dipilih"</string>
+    <string name="clear_shortcuts_prompt">"Ini akan menghapus semua cara pintas ke saran pencarian yang baru-baru ini dipilih." \n\n "(Untuk menghapus riwayat browser Anda, gunakan pengaturan Browser.)"</string>
+    <string name="agree">"OK"</string>
+    <string name="disagree">"Batal"</string>
+    <string name="google_search_label">Google</string>
+    <string name="google_app_label">"Penelusuran Google"</string>
+    <string name="google_search_hint">"Penelusuran Google"</string>
+    <string name="google_search_settings">"Google penelusuran"</string>
+    <string name="google_show_web_suggestions">"Tampilkan saran web"</string>
+    <string name="google_show_web_suggestions_summary_enabled">"Tampilkan saran dari Google ketika mengetik"</string>
+    <string name="google_show_web_suggestions_summary_disabled">"Jangan menunjukkan saran dari Googlr saat mengetik"</string>
+</resources>

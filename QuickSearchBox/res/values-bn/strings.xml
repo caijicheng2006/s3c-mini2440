@@ -1,0 +1,30 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">অনুসন্ধান</string>
+    <string name="search_widget">অনুসন্ধান</string>
+    <string name="corpus_selection_heading">অনুসন্ধান</string>
+    <string name="corpus_label_web">ওয়েব</string>
+    <string name="corpus_description_web">ওয়েব সার্চ, বুকমার্কস এবং ব্রাউজার ইতিহাস</string>
+    <string name="corpus_label_apps">অ্যাপ্লিকেশন</string>
+    <string name="corpus_description_apps">ইনস্টল করা অ্যাপ্লিকেশনের নাম</string>
+    <string name="corpus_hint_apps">অনুসন্ধান এপস</string>
+    <string name="corpus_label_apps_market">অ্যাপ্লিকেশন এবং বাজার</string>
+    <string name="corpus_description_apps_market">ইনস্টল Apps অনুকূলকরণ করতে এবং বাজার থেকে Apps</string>
+    <string name="corpus_hint_apps_market">অনুসন্ধান এপস এবং বাজার</string>
+    <string name="menu_settings">পছন্দসমূহ</string>
+    <string name="search_settings">পছন্দসমূহ</string>
+    <string name="web_search_category_title">ওয়েব</string>
+    <string name="system_search_category_title">ফোন</string>
+    <string name="search_sources">অনুসন্ধানযোগ্য আইটেম</string>
+    <string name="search_sources_summary">ফোনে কি অনুসন্ধান করা হবে তা চয়ন করুন</string>
+    <string name="clear_shortcuts">সাফ শর্টকাট</string>
+    <string name="clear_shortcuts_summary">সাফ শর্টকাট করুন এবং সম্প্রতি নির্বাচিত অনুসন্ধানের পরামর্শ দিন</string>
+    <string name="clear_shortcuts_prompt">"এইটি অনুসন্ধান পরামর্শ সাম্প্রতিক কালে বেছে নিতে সমস্ত শর্টকাট মুছে ফেলবে। " \n\n " (আপনার ব্রাউজার ইতিহাস মুছে ফেলতে, ব্রাউজারের মানসমূহ ব্যবহার করুন.)"</string>
+    <string name="google_search_label">Google</string>
+    <string name="google_app_label">Google অনুসন্ধান</string>
+    <string name="google_search_hint">Google অনুসন্ধান</string>
+    <string name="google_show_web_suggestions">ওয়েব প্রস্তাবনা দেখান</string>
+    <string name="google_show_web_suggestions_summary_enabled">গুগল থেকে পরামর্শ হিসাবে আপনি টাইপ দেখাও</string>
+    <string name="google_show_web_suggestions_summary_disabled">গুগল থেকে  পরামর্শ  দেখায় না যেভাবে আপনি টাইপ করেন</string>
+</resources>

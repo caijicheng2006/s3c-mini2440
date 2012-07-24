@@ -1,0 +1,35 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">"ค้นหา"</string>
+    <string name="search_widget">"ค้นหา"</string>
+    <string name="search_widget_config_ok">"ตกลง"</string>
+    <string name="corpus_selection_heading">"ค้นหา"</string>
+    <string name="corpus_label_global">"ทั้งหมด"</string>
+    <string name="corpus_label_web">เวบ</string>
+    <string name="corpus_description_web">ค้นหาเว็บบุ๊คมาร์คและประวัติการเรียกดู</string>
+    <string name="corpus_label_apps">โปรแกรม</string>
+    <string name="corpus_description_apps">รายชื่อโปรแกรมที่ติดตั้ง</string>
+    <string name="corpus_hint_apps">ค้นหา Apps</string>
+    <string name="corpus_label_apps_market">โปรแกรมและการตลาด</string>
+    <string name="corpus_description_apps_market">ติดตั้ง apps และ Apps จากตลาด</string>
+    <string name="corpus_hint_apps_market">ค้นหา Apps และการตลาด</string>
+    <string name="menu_settings">ตั้งค่าการค้นหา</string>
+    <string name="search_settings">ตั้งค่าการค้นหา</string>
+    <string name="web_search_category_title">เวบ</string>
+    <string name="system_search_category_title">"โทรศัพท์"</string>
+    <string name="search_sources">รายการที่ค้นหา</string>
+    <string name="search_sources_summary">เลือกสิ่งที่ต้องการค้นหาบนโทรศัพท์</string>
+    <string name="clear_shortcuts">ลบทางลัด</string>
+    <string name="clear_shortcuts_summary">ลบทางลัดเพื่อเลือกการค้นหาที่แนะนำ</string>
+    <string name="clear_shortcuts_prompt">การดำเนินการนี้เพื่อลบทางลัดของข้อมูลที่ถูกค้นหาล่าสุดทั้งหมด (หากต้องการลบบราวเซอที่ถูกเปิดขึ้น ไปที่ตั้งค่าปราวเซอ)</string>
+    <string name="agree">"ตกลง"</string>
+    <string name="disagree">"ยกเลิก"</string>
+    <string name="google_search_label">"Google"</string>
+    <string name="google_app_label">การค้นหาโดยกูเกิล</string>
+    <string name="google_search_hint">การค้นหาโดยกูเกิล</string>
+    <string name="google_search_settings">"ค้นหาโดย Google"</string>
+    <string name="google_show_web_suggestions">แสดงคำแนะนำบนเว็บ</string>
+    <string name="google_show_web_suggestions_summary_enabled">แสดงข้อเสนอแนะจาก Google ขณะที่คุณพิมพ์</string>
+    <string name="google_show_web_suggestions_summary_disabled">ไม่ต่องแสดงคำแนะนำจากกูเกิลเวลาพิม</string>
+</resources>

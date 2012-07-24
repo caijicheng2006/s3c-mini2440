@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2009 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+    <LinearLayout
+        android:id="@+id/corpus_selector_frame"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/corpus_selector_arrow"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:paddingTop="20dip"
+        android:paddingBottom="20dip"
+        android:paddingLeft="8dip"
+        android:paddingRight="8dip"
+        android:background="@drawable/corpus_selector_bg"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dip"
+            android:singleLine="true"
+            android:textColor="@android:color/tertiary_text_light"
+            android:textSize="16dip"
+            android:text="@string/corpus_selection_heading"
+        />
+
+        <GridView
+            android:id="@+id/corpus_grid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top|left"
+            android:horizontalSpacing="2dip"
+            android:verticalSpacing="2dip"
+            android:listSelector="@drawable/corpus_grid_item_bg"
+            />
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/corpus_selector_arrow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="44dip"
+        android:layout_marginBottom="-8.5dip"
+        android:layout_marginLeft="6.5dip"
+        android:src="@drawable/corpus_selector_arrow_up"
+        />
+
+</RelativeLayout>

@@ -1,0 +1,35 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">"Tìm kiếm"</string>
+    <string name="search_widget">"Tìm kiếm"</string>
+    <string name="search_widget_config_ok">"OK"</string>
+    <string name="corpus_selection_heading">"Tìm kiếm"</string>
+    <string name="corpus_label_global">"Tất cả"</string>
+    <string name="corpus_label_web">Web</string>
+    <string name="corpus_description_web">Tìm kiếm web, dấu trang và lịch sử duyệt web</string>
+    <string name="corpus_label_apps">Các ứng dụng</string>
+    <string name="corpus_description_apps">Tên của các ứng dụng đã cài đặt</string>
+    <string name="corpus_hint_apps">Các ứng dụng Tìm kiếm</string>
+    <string name="corpus_label_apps_market">Các ứng dụng và Thị trường</string>
+    <string name="corpus_description_apps_market">Đã cài đặt các Ứng dụng và những Ứng dụng từ Thị trường</string>
+    <string name="corpus_hint_apps_market">Các ứng dụng Tìm kiếm và Thị trường</string>
+    <string name="menu_settings">Cài đặt tìm kiếm</string>
+    <string name="search_settings">Cài đặt tìm kiếm</string>
+    <string name="web_search_category_title">Web</string>
+    <string name="system_search_category_title">"Điện thoại"</string>
+    <string name="search_sources">Các mục có thể tìm kiếm</string>
+    <string name="search_sources_summary">Chọn nội dung cần tìm kiếm trên điện thoại</string>
+    <string name="clear_shortcuts">Xóa lối tắt</string>
+    <string name="clear_shortcuts_summary">Xóa lối tắt của những gợi ý tìm kiếm được chọn gần đây</string>
+    <string name="clear_shortcuts_prompt">"Việc này sẽ xóa tất cả biểu tượng tắt của các gợi ý tìm kiếm được chọn gần đây."\n\n"(Để xóa lịch sử Duyệt web, hãy sử dụng các cài đặt của Trình duyệt.)"</string>
+    <string name="agree">"OK"</string>
+    <string name="disagree">"Hủy bỏ"</string>
+    <string name="google_search_label">"Google"</string>
+    <string name="google_app_label">Google Search</string>
+    <string name="google_search_hint">Google Search</string>
+    <string name="google_search_settings">"Tìm kiếm của Google"</string>
+    <string name="google_show_web_suggestions">Hiển thị các gợi ý của web</string>
+    <string name="google_show_web_suggestions_summary_enabled">Hiển thị các gợi ý từ Google khi bạn đánh máy</string>
+    <string name="google_show_web_suggestions_summary_disabled">Không hiển thị các gợi ý từ Google khi bạn đánh máy</string>
+</resources>

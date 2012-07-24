@@ -1,0 +1,35 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">بحث</string>
+    <string name="search_widget">بحث</string>
+    <string name="search_widget_config_ok">"موافق"</string>
+    <string name="corpus_selection_heading">بحث</string>
+    <string name="corpus_label_global">"الكل"</string>
+    <string name="corpus_label_web">ويب</string>
+    <string name="corpus_description_web">بحث ويب , المفضلة و تاريخ المتصفح</string>
+    <string name="corpus_label_apps">التطبيقات</string>
+    <string name="corpus_description_apps">اسماء التطبيقات المثبتة</string>
+    <string name="corpus_hint_apps">البحث عن تطبيقات</string>
+    <string name="corpus_label_apps_market">التطبيقات و السوق</string>
+    <string name="corpus_description_apps_market">البتطبيقات المثبتة و التطبيقات من السوق</string>
+    <string name="corpus_hint_apps_market">البحث عن تطبيقات و السوق</string>
+    <string name="menu_settings">البحث عن الاعدادات</string>
+    <string name="search_settings">البحث عن الاعدادات</string>
+    <string name="web_search_category_title">ويب</string>
+    <string name="system_search_category_title">الهاتف</string>
+    <string name="search_sources">البحث جاري عن العناصر</string>
+    <string name="search_sources_summary">اختار عن ماذا تبحث في الهاتف</string>
+    <string name="clear_shortcuts">مسح الاختصارات</string>
+    <string name="clear_shortcuts_summary">مسح الاختصارات لاقتراحات البحث المختارة موخرا</string>
+    <string name="clear_shortcuts_prompt">سيؤدي هذا إلى مسح جميع الاختصارات الى اقتراحات البحث التي تم اختيارها موخرا."\n\n"(لمسح تاريخ المتصفح، استخدام إعدادات المتصفح.</string>
+    <string name="agree">"موافق"</string>
+    <string name="disagree">"إلغاء"</string>
+    <string name="google_search_label">Google</string>
+    <string name="google_app_label">بحث في غوغل</string>
+    <string name="google_search_hint">بحث في غوغل</string>
+    <string name="google_search_settings">"بحث Google"</string>
+    <string name="google_show_web_suggestions">مشاهدة اقتراحات الويب</string>
+    <string name="google_show_web_suggestions_summary_enabled">مشاهدة الاقتراحات من غوغل حسب رغبتك</string>
+    <string name="google_show_web_suggestions_summary_disabled">لاتقم بعرض اقتراحات من غوغل بينما تكتب</string>
+</resources>

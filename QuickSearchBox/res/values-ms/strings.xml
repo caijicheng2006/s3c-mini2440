@@ -1,0 +1,34 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Cari</string>
+    <string name="search_widget">Cari</string>
+    <string name="search_widget_config_ok">"OK"</string>
+    <string name="corpus_selection_heading">Cari</string>
+    <string name="corpus_label_global">"Semua"</string>
+    <string name="corpus_label_web">Web</string>
+    <string name="corpus_description_web">Carian, penanda buku dan sejarah pelayar Web</string>
+    <string name="corpus_label_apps">Apps</string>
+    <string name="corpus_description_apps">Nama-nama aplikasi yang dipasang</string>
+    <string name="corpus_hint_apps">Cari Apps</string>
+    <string name="corpus_label_apps_market">Apps dan Pasaran</string>
+    <string name="corpus_description_apps_market">Apps dan Apps dari Market dipasangkan</string>
+    <string name="corpus_hint_apps_market">Cari Apps dan Market</string>
+    <string name="menu_settings">Cari tetapan</string>
+    <string name="search_settings">Cari tetapan</string>
+    <string name="web_search_category_title">Web</string>
+    <string name="system_search_category_title">Telefon</string>
+    <string name="search_sources">Item boleh cari</string>
+    <string name="search_sources_summary">Pilih apa untuk dicari di dalam telefon</string>
+    <string name="clear_shortcuts">Padam bersih pintasan</string>
+    <string name="clear_shortcuts_summary">Padam bersih pintasan ke cadangan carian yang dipilih baru-baru ini</string>
+    <string name="clear_shortcuts_prompt">"Ini akan mengosongkan semua pintasan ke cadangan carian yang dipilih baru-baru ini."\n\n"(Untuk kosongkan sejarah Penyemak Imbas anda, gunakan tetapan Penyemak Imbas.)"</string>
+    <string name="agree">"OK"</string>
+    <string name="disagree">Batalkan</string>
+    <string name="google_search_label">Google</string>
+    <string name="google_app_label">Carian Goggle</string>
+    <string name="google_search_hint">Carian Goggle</string>
+    <string name="google_show_web_suggestions">Tunjuk cadangan Internet</string>
+    <string name="google_show_web_suggestions_summary_enabled">Tunjuk cadangan dari Google semasa menaip</string>
+    <string name="google_show_web_suggestions_summary_disabled">Jangan tunjuk cadangan dari Google semasa menaip</string>
+</resources>
