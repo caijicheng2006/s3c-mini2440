@@ -1,0 +1,140 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="ro_perm_label">त्वरित संदेश पढ़ें</string>
+    <string name="ro_perm_desc">एप्लिकेशनों को आईएम सामग्री प्रदाता से डेटा पढ़ने हेतु अनुमति प्रदान करता है.
+    </string>
+    <string name="wo_perm_label">त्वरित संदेश लिखे</string>
+    <string name="wo_perm_desc">
+एप्लिकेशनों को आईएम सामग्री प्रदाता पर डेटा सामग्री लिखने की अनुमति प्रदान करता है.
+    </string>
+    <string name="im_label">"IM"</string>
+    <string name="landing_page_title">चैट - किसी खाते का चयन करें</string>
+    <string name="menu_add_account">खाता जोड़ें</string>
+    <string name="menu_edit_account">खाता संपादित करें</string>
+    <string name="menu_remove_account">खाता हटाएं</string>
+    <string name="menu_sign_out_all">सभी को साइन आउट करें</string>
+    <string name="choose_account_title">चैट - किसी खाते का चयन करें</string>
+    <string name="menu_cancel_signin">साइन इन करना रद्द करें</string>
+    <string name="menu_add_contact">संपर्क जोड़ें</string>
+    <string name="menu_remove_contact">संपर्क हटाएं</string>
+    <string name="menu_block_contact">ब्लॉक संपर्क</string>
+    <string name="menu_view_blocked">ब्लॉक किए गए</string>
+    <string name="menu_view_accounts">खाता सूची</string>
+    <string name="menu_settings">सेटिंग्स</string>
+    <string name="menu_start_chat">चैट शुरू करें</string>
+    <string name="menu_sign_out">साइन आउट</string>
+    <string name="menu_view_profile">प्रोफाइल देखें</string>
+    <string name="menu_end_conversation">चैट समाप्त करें</string>
+    <string name="menu_view_contact_list">संपर्क सूची लोड नहीं थी</string>
+    <string name="menu_invite_contact">आमंत्रण\u2026</string>
+    <string name="menu_switch_chats">चैट स्विच करें</string>
+    <string name="menu_insert_smiley">स्माइली दर्ज करें</string>
+    <string name="default_input_title">इनपुट</string>
+    <string name="confirm">पुष्टि करें</string>
+    <string name="signout_all_confirm_message">क्या आप सभी सेवाएं साइन आउट करना चाहते हैं?</string>
+    <string name="ok">"ठीक"</string>
+    <string name="cancel">"रद्द करें"</string>
+    <string name="yes">"ठीक"</string>
+    <string name="no">"रद्द करें"</string>
+    <string name="remember_password">मेरा पासवर्ड याद रखें.</string>
+    <string name="keep_me_signed_in">मुझे स्वचालित रूप से साइन इन करें.</string>
+    <string name="sign_up">खाता नहीं है?</string>
+    <string name="check_auto_sign_in">यह विकल्प आपको स्वचालित रूप से साइन कर देते हैं जब भी आप इस एप्लिकेशन को खोलते हैं. इस विकल्प को अक्षम करने के लिए, साइन आउट करके \"मुझे स्वचालित रूप से\" चैक बॉक्स में करें.</string>
+    <string name="sign_in">साइन इन</string>
+    <string name="signing_in_wait">साइन इन हो रहा है\u2026</string>
+    <string name="bg_data_prompt_title">पृष्ठभूमि डेटा अक्षम</string>
+    <string name="bg_data_prompt_ok">"सक्षम करें"</string>
+    <string name="bg_data_prompt_cancel">बाहर आएं</string>
+    <string name="subscriptions">मित्र निमत्रण</string>
+    <string name="empty_contact_group">ख़ाली करें</string>
+    <string name="empty_conversation_group">कोई संवाद नहीं</string>
+    <string name="contacts_picker_title">निमंत्रण के लिए संपर्कों का चयन करें</string>
+    <string name="contact_filter_hint">संपर्क खोजने के लिए टाइप करें</string>
+    <string name="empty_contact_list">कोई संपर्क नहीं मिला.</string>
+    <string name="no_blocked_contact">कोई ब्लॉक संपर्क नहीं.</string>
+    <string name="contact_profile_title">संपर्क सफलतापूर्वक सहेजे गए</string>
+    <string name="label_client_type">क्लायंट के प्रकार:</string>
+    <string name="client_type_computer">कंप्यूटर</string>
+    <string name="client_type_mobile">"मोबाइल"</string>
+    <string name="presence_available">ऑनलाइन</string>
+    <string name="presence_busy">व्यस्त</string>
+    <string name="presence_away">अलग</string>
+    <string name="presence_idle">खाली</string>
+    <string name="presence_offline">ऑफ़लाइन</string>
+    <string name="presence_invisible">ऑफलाइन होता है</string>
+    <string name="me">"मैं"</string>
+    <string name="compose_hint">कंपोज करने के लिए टाइप करें</string>
+    <string name="send">भेजें</string>
+    <string name="msg_sent_failed">इस संदेश को भेजा नहीं जा सकता है.</string>
+    <string name="disconnected_warning">सर्वर से कनेक्शन गायब. ऑनलाइन होने पर संदेश भेजे जाएंगे.</string>
+    <string name="select_link_title">लिंक का चयन करें</string>
+    <string name="empty_chat_list">कोई सक्रिय चैट नहीं.</string>
+    <string name="add_contact_title">संपर्क जोड़ें</string>
+    <string name="input_contact_label">उस व्यक्ति का ईमेल पता जिसे आप आमंत्रि‍त करना चाहते हैं:</string>
+    <string name="choose_list_label">कोई सूची चुनें:</string>
+    <string name="invite_instruction">संपर्कों से जोड़ने के लिए कोई एक नाम टाइप करें.</string>
+    <string name="invite_label">निमंत्रण भेजें</string>
+    <string name="setting_title">सामान्य सेटिंग्स</string>
+    <string name="hide_offline_contacts">ऑफलाइन संपर्क छुपाएं</string>
+    <string name="notification_group_title">सूचना सेटिंग</string>
+    <string name="notification_enabled_title">IM अधिसूचनाएं</string>
+    <string name="notification_enabled_summary">आईएम पहुंचने पर स्थिति बार में सूचित करें</string>
+    <string name="notification_vibrate_title">कंपन</string>
+    <string name="notification_vibrate_summary">आईएम पहुंचने पर कंपन भी करता है</string>
+    <string name="notification_sound_title">ध्वनि</string>
+    <string name="notification_sound_summary">आईएम पहुंचने पर रिंगटोन को चलाता है</string>
+    <string name="notification_ringtone_title">रिंगटोन चुनें </string>
+    <string name="accept_invitation">स्वीकार करें</string>
+    <string name="decline_invitation">अस्वीकार</string>
+    <string name="approve_subscription">स्वीकार करें</string>
+    <string name="decline_subscription">अस्वीकार</string>
+    <string name="notify_groupchat_label">समूह चैट निमंत्रण</string>
+    <string name="perm_label">IM सेवा शुरू करें</string>
+    <string name="perm_desc">यह एप्लिकेशन आईएम सेवा को इंटेंट के द्वारा चालू करने की अनुमति प्रदान करता है.</string>
+    <string name="error">"ध्यान दें"</string>
+    <string name="add_list_failed">सूची कोई नहीं जोड़ा गया था.</string>
+    <string name="block_contact_failed">संपर्क ब्लॉक था.</string>
+    <string name="unblock_contact_failed">संपर्क आयात किए जाएंगे</string>
+    <string name="select_contact">कृपया पहले किसी संपर्क का चयन करें.</string>
+    <string name="service_error">सेवा त्रुटि!</string>
+    <string name="load_contact_list_failed">संपर्क प्रोफाइल.</string>
+    <string name="cant_connect_to_server">सर्वर के साथ कनेक्ट नहीं हो सकता. कृपया अपने कनेक्शन की जांच करें.</string>
+    <string name="contact_not_loaded">कृपया अपनी संपर्क सूची लोड होने तक प्रतीक्षा करें.</string>
+    <string name="network_error">कोई नेटवर्क त्रुटि हुई.</string>
+    <string name="service_not_support">सर्वर इस कार्यविधि का समर्थन नहीं करता है.</string>
+    <string name="invalid_password">आपके द्वारा दर्ज पासवर्ड अमान्य है.</string>
+    <string name="internal_server_error">सर्वर में कोई त्रुटि हुई है.</string>
+    <string name="not_implemented">सर्वर इस कार्यविधि का समर्थन नहीं करता है.</string>
+    <string name="service_unavaiable">फिलहाल सर्वर उपलब्ध नहीं है.</string>
+    <string name="timeout">सर्वर टाइम आउट हो चुका है.</string>
+    <string name="version_not_supported">सर्वर वर्तमान संस्करण का समर्थन नहीं करता है.</string>
+    <string name="message_queue_full">संदेश पंक्ति पूर्ण है.</string>
+    <string name="domain_not_supported">सर्वर डोमेन में अग्रेषित का समर्थन नहीं करता है.</string>
+    <string name="unknown_user">आपके द्वारा दर्ज किया गया उपयोगकर्ता नाम पहचान लिया गया है.</string>
+    <string name="recipient_blocked_the_user">क्षमा करें, आप उपयोगकर्ता के द्वारा ब्लॉक हैं.</string>
+    <string name="session_expired">यह सत्र समाप्त हो चुका है, कृपया दोबारा प्रयास करें.</string>
+    <string name="forced_logout">आप पहले ही दूसरे क्लायंट से साइन इन कर चुके हो.</string>
+    <string name="already_logged_in">आपके उपयोगकर्ता शब्दकोष में कोई शब्द नहीं है. आप मेनू के माध्यम से शब्द जोड़ सकते हैं.</string>
+    <string name="msisdn_error">क्षमा करना, आपके SIM कार्ड से फोन नंबर को नहीं पढ़ा जा सकता है. कृपया मदद के लिए अपने ऑपरेटर से संपर्क करें.</string>
+    <string name="not_signed_in">आप फिलहाल साइन इन नहीं हो.</string>
+    <string-array name="default_smiley_names">
+        <item>प्रसन्न</item>
+        <item>दुख की बात है</item>
+        <item>विंकिंग</item>
+        <item>जीभ चिपक रहा है</item>
+        <item>आश्चर्यचकित</item>
+        <item>आलिंगन</item>
+        <item>चिल्लाते हुए</item>
+        <item>ठंडा</item>
+        <item>मनी माउथ</item>
+        <item>मुंह में पैर</item>
+        <item>परेशान</item>
+        <item>देवदूत</item>
+        <item>अनिर्णित</item>
+        <item>शोर कर रहा है</item>
+        <item>होठ बंद हैं</item>
+        <item>हंसना</item>
+        <item>भ्रमित</item>
+    </string-array>
+</resources>

@@ -1,0 +1,139 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="ro_perm_label">"đọc các tin nhắn nhanh"</string>
+    <string name="ro_perm_desc">"Cho phép các ứng dụng đọc dữ liệu từ nhà cung cấp nội dung IM."
+    </string>
+    <string name="wo_perm_label">"soạn tin nhắn nhanh"</string>
+    <string name="wo_perm_desc">"Cho phép các ứng dụng ghi dữ liệu tới nhà cung cấp nội dung IM."
+    </string>
+    <string name="im_label">"IM"</string>
+    <string name="landing_page_title">"Trò chuyện - Chọn một tài khoản"</string>
+    <string name="menu_add_account">"Thêm tài khoản"</string>
+    <string name="menu_edit_account">"Chỉnh sửa tài khoản"</string>
+    <string name="menu_remove_account">"Xoá tài khoản"</string>
+    <string name="menu_sign_out_all">"Đăng xuất tất cả"</string>
+    <string name="choose_account_title">"Trò chuyện - Chọn một tài khoản"</string>
+    <string name="menu_cancel_signin">"Hủy bỏ việc chỉ đường"</string>
+    <string name="menu_add_contact">"Thêm liên hệ"</string>
+    <string name="menu_remove_contact">"Xoá liên hệ"</string>
+    <string name="menu_block_contact">"Chặn liên hệ"</string>
+    <string name="menu_view_blocked">"Đã bị chặn"</string>
+    <string name="menu_view_accounts">"Danh sách tài khoản"</string>
+    <string name="menu_settings">"Cài đặt"</string>
+    <string name="menu_start_chat">"Bắt đầu trò chuyện"</string>
+    <string name="menu_sign_out">"Đăng xuất"</string>
+    <string name="menu_view_profile">"Xem hồ sơ"</string>
+    <string name="menu_end_conversation">"Kết thúc trò chuyện"</string>
+    <string name="menu_view_contact_list">Danh sách liên hệ</string>
+    <string name="menu_invite_contact">"Mời..."</string>
+    <string name="menu_switch_chats">"Chuyển sang trò chuyện"</string>
+    <string name="menu_insert_smiley">"Chèn biểu tượng diễn cảm"</string>
+    <string name="default_input_title">"Nhập"</string>
+    <string name="confirm">Xác nhận</string>
+    <string name="signout_all_confirm_message">"Bạn có muốn đăng xuất tất cả dịch vụ không?"</string>
+    <string name="ok">"OK"</string>
+    <string name="cancel">"Hủy bỏ"</string>
+    <string name="yes">"OK"</string>
+    <string name="no">"Hủy bỏ"</string>
+    <string name="remember_password">"Ghi nhớ mật khẩu của tôi."</string>
+    <string name="keep_me_signed_in">"Tự động đăng nhập tôi."</string>
+    <string name="sign_up">"Không có tài khoản?"</string>
+    <string name="check_auto_sign_in">"Tùy chọn này tự động đăng nhập bạn mỗi lần bạn mở ứng dụng này. Để vô hiệu hóa tùy chọn này, hãy đăng xuất, sau đó xóa hộp chọn \"Tự động đăng nhập tôi\".</string>
+    <string name="sign_in">Đăng nhập</string>
+    <string name="signing_in_wait">"Đang đăng nhập..."</string>
+    <string name="bg_data_prompt_title">"Dữ liệu nền bị vô hiệu hóa"</string>
+    <string name="bg_data_prompt_ok">"Bật"</string>
+    <string name="bg_data_prompt_cancel">"Thoát"</string>
+    <string name="subscriptions">"Lời mời của bạn bè"</string>
+    <string name="empty_contact_group">"Trống"</string>
+    <string name="empty_conversation_group">"Không có cuộc trò chuyện nào"</string>
+    <string name="contacts_picker_title">"Chọn liên hệ để mời"</string>
+    <string name="contact_filter_hint">"Nhập để tìm liên hệ"</string>
+    <string name="empty_contact_list">"Không tìm thấy liên hệ nào."</string>
+    <string name="no_blocked_contact">"Không có liên hệ bị chặn nào."</string>
+    <string name="contact_profile_title">"Hồ sơ của liên hệ"</string>
+    <string name="label_client_type">"Loại máy khách:"</string>
+    <string name="client_type_computer">"Máy tính"</string>
+    <string name="client_type_mobile">"ĐT di động"</string>
+    <string name="presence_available">"Trực tuyến"</string>
+    <string name="presence_busy">"Bận"</string>
+    <string name="presence_away">"Đi xa"</string>
+    <string name="presence_idle">Rảnh</string>
+    <string name="presence_offline">"Ngoại tuyến"</string>
+    <string name="presence_invisible">"Xuất hiện ngoại tuyến"</string>
+    <string name="me">"Tôi"</string>
+    <string name="compose_hint">"Nhập để soạn"</string>
+    <string name="send">"Gửi" </string>
+    <string name="msg_sent_failed">"Tin nhắn đã không thể được gửi đi."</string>
+    <string name="disconnected_warning">"Mất kết nối với máy chủ. Các tin nhắn sẽ được gửi khi bạn online."</string>
+    <string name="select_link_title">"Chọn liên kết"</string>
+    <string name="empty_chat_list">"Không có cuộc trò chuyện nào đang diễn ra."</string>
+    <string name="add_contact_title">"Thêm liên hệ"</string>
+    <string name="input_contact_label">"Địa chỉ email của người bạn muốn mời:"</string>
+    <string name="choose_list_label">"Chọn một danh sách:"</string>
+    <string name="invite_instruction">"Nhập tên để thêm từ Danh bạ."</string>
+    <string name="invite_label">"Gửi lời mời"</string>
+    <string name="setting_title">Cài đặt thường dùng</string>
+    <string name="hide_offline_contacts">"Ẩn liên hệ ngoại tuyến"</string>
+    <string name="notification_group_title">"Cài đặt thông báo"</string>
+    <string name="notification_enabled_title">"Các thông báo IM"</string>
+    <string name="notification_enabled_summary">"Thông báo trên thanh trạng thái khi IM đến"</string>
+    <string name="notification_vibrate_title">"Rung"</string>
+    <string name="notification_vibrate_summary">"Cũng rung khi IM đến"</string>
+    <string name="notification_sound_title">Âm thanh</string>
+    <string name="notification_sound_summary">"Cũng phát nhạc chuông khi tin nhắn nhanh (IM) đến"</string>
+    <string name="notification_ringtone_title">"Chọn nhạc chuông"</string>
+    <string name="accept_invitation">Chấp nhận</string>
+    <string name="decline_invitation">Từ chối</string>
+    <string name="approve_subscription">Chấp nhận</string>
+    <string name="decline_subscription">Từ chối</string>
+    <string name="notify_groupchat_label">"Mời trò chuyện nhóm"</string>
+    <string name="perm_label">"bắt đầu dịch vụ IM"</string>
+    <string name="perm_desc">"Cho phép các ứng dụng khởi động dịch vụ tin nhắn nhanh (IM) qua Internet."</string>
+    <string name="error">"Chú ý"</string>
+    <string name="add_list_failed">"Danh sách không được thêm vào."</string>
+    <string name="block_contact_failed">"Liên hệ đã không bị chặn."</string>
+    <string name="unblock_contact_failed">"Liên hệ đã bị chặn."</string>
+    <string name="select_contact">"Vui lòng chọn một liên hệ trước tiên."</string>
+    <string name="service_error">"Lỗi dịch vụ!"</string>
+    <string name="load_contact_list_failed">"Danh sách liên hệ không tải được."</string>
+    <string name="cant_connect_to_server">"Không thể kết nối vào máy chủ. Vui lòng kiểm tra kết nối."</string>
+    <string name="contact_not_loaded">"Vui lòng đợi trong khi danh sách Liên hệ của bạn đang tải."</string>
+    <string name="network_error">"Xảy ra lỗi mạng."</string>
+    <string name="service_not_support">"Máy chủ không hỗ trợ tính năng này."</string>
+    <string name="invalid_password">"Mật khẩu bạn nhập vào không hợp lệ."</string>
+    <string name="internal_server_error">"Máy chủ bị lỗi."</string>
+    <string name="not_implemented">"Máy chủ không hỗ trợ tính năng này."</string>
+    <string name="service_unavaiable">"Máy chủ hiện không khả dụng."</string>
+    <string name="timeout">"Máy chủ đã tạm ngừng phục vụ."</string>
+    <string name="version_not_supported">"Máy chủ không hỗ trợ phiên bản hiện tại."</string>
+    <string name="message_queue_full">"Hàng đợi tin nhắn đã đầy."</string>
+    <string name="domain_not_supported">"Máy chủ không hỗ trợ việc chuyển tiếp tới miền đã chọn."</string>
+    <string name="unknown_user">"Tên người dùng bạn đã nhập không được nhận dạng."</string>
+    <string name="recipient_blocked_the_user">"Rất tiếc, bạn bị chặn bởi người sử dụng."</string>
+    <string name="session_expired">"Kỳ tác vụ đã hết hạn, vui lòng đăng nhập lại."</string>
+    <string name="forced_logout">"bạn đã đăng nhập từ một máy khách khác."</string>
+    <string name="already_logged_in">"bạn đã đăng nhập từ một máy khách khác."</string>
+    <string name="msisdn_error">"Rất tiếc, số điện thoại không thể được đọc từ thẻ SIM của bạn. Vui lòng liên hệ với nhà cung cấp dịch vụ mạng của bạn để được trợ giúp."</string>
+    <string name="not_signed_in">"Hiện bạn không ở trạng thái đăng nhập."</string>
+    <string-array name="default_smiley_names">
+        <item>"Hạnh phúc"</item>
+        <item>"Buồn"</item>
+        <item>"Nháy mắt"</item>
+        <item>"Lưỡi thè ra giận dữ"</item>
+        <item>"Ngạc nhiên"</item>
+        <item>"Hôn"</item>
+        <item>"La hét"</item>
+        <item>"Mát mẻ"</item>
+        <item>"Mồm ngậm tiền"</item>
+        <item>"Ăn giầy vào mồm"</item>
+        <item>"Làm lúng túng"</item>
+        <item>"Thiên thần"</item>
+        <item>"Không xác định"</item>
+        <item>"Khóc"</item>
+        <item>"Kín miệng"</item>
+        <item>"Cười"</item>
+        <item>"Lẫn lộn"</item>
+    </string-array>
+</resources>

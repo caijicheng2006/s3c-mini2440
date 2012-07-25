@@ -1,0 +1,137 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="ro_perm_label">قراءة الرسائل الفورية</string>
+    <string name="ro_perm_desc">السماح للتطبيقات بقراءة البيانات من مزود محتوى IM</string>
+    <string name="wo_perm_label">كتابة رسالئل فورية</string>
+    <string name="wo_perm_desc">السماح للتطبيقات بكتابة البيانات الى مزود محتوى IM</string>
+    <string name="im_label">"المراسلة الفورية"</string>
+    <string name="landing_page_title">محاثة \ اختار حساب</string>
+    <string name="menu_add_account">"إضافة حساب"</string>
+    <string name="menu_edit_account">تعديل الرصيد</string>
+    <string name="menu_remove_account">"إزالة الحساب"</string>
+    <string name="menu_sign_out_all">تسجيل الخروج للجميع</string>
+    <string name="choose_account_title">محاثة \ اختار حساب</string>
+    <string name="menu_cancel_signin">الغاء تسجيل الدخول</string>
+    <string name="menu_add_contact"> اضافة جهة اتصال</string>
+    <string name="menu_remove_contact">"حذف جهة الاتصال"</string>
+    <string name="menu_block_contact">حجب جهة الاتصال</string>
+    <string name="menu_view_blocked">منعت</string>
+    <string name="menu_view_accounts"> قائمة الحساب</string>
+    <string name="menu_settings">الإعدادات</string>
+    <string name="menu_start_chat">بداية المحادثة</string>
+    <string name="menu_sign_out">تسجيل الخروج</string>
+    <string name="menu_view_profile">مشاهدة الملف</string>
+    <string name="menu_end_conversation">انهاء المحادثة</string>
+    <string name="menu_view_contact_list">قائمة جهات الاتصال</string>
+    <string name="menu_invite_contact">دعوة \u2026</string>
+    <string name="menu_switch_chats">المحادثة جارية</string>
+    <string name="menu_insert_smiley">ادراج وجه مبتسم</string>
+    <string name="default_input_title">الادخال </string>
+    <string name="confirm">تأكيد</string>
+    <string name="signout_all_confirm_message">هل تريد تسجيل الخروج من جميع الخدمات</string>
+    <string name="ok">"موافق"</string>
+    <string name="cancel">"إلغاء"</string>
+    <string name="yes">"موافق"</string>
+    <string name="no">"إلغاء"</string>
+    <string name="remember_password">تذكر كلمة مروري</string>
+    <string name="keep_me_signed_in">تسجيل دخولي بشكل تلقائي</string>
+    <string name="sign_up">لا تملك حساب ؟</string>
+    <string name="check_auto_sign_in">هذا الخيار يسجلك تلقائيا في كل مرة يتم فيها فتح هذا التطبيق. لتعطيل هذا الخيار، تسجيل الخروج، ثم مسح \ "تسجيل الدخول تلقائيا \" خانة الاختيار.</string>
+    <string name="sign_in">تسجيل الدخول</string>
+    <string name="signing_in_wait">جاري تسجيل الدخول/u2026</string>
+    <string name="bg_data_prompt_title">تعطيل بيانات الخلفية</string>
+    <string name="bg_data_prompt_ok">"تمكين"</string>
+    <string name="bg_data_prompt_cancel">إنهاء</string>
+    <string name="subscriptions">دعوات الاصدقاء</string>
+    <string name="empty_contact_group">فارغ</string>
+    <string name="empty_conversation_group">لا يوجد محادثات</string>
+    <string name="contacts_picker_title">تحديد بطاقة المتصل() لارسال دعوة </string>
+    <string name="contact_filter_hint">اكتب لايجاد جهة اتصال</string>
+    <string name="empty_contact_list">لم يتم ايجاد جهات اتصال</string>
+    <string name="no_blocked_contact">لايوجد جهات اتصال محظورة</string>
+    <string name="contact_profile_title">ملف جهة الاتصال</string>
+    <string name="label_client_type">نوع العميل :</string>
+    <string name="client_type_computer">كومبيوتر</string>
+    <string name="client_type_mobile">"الجوال"</string>
+    <string name="presence_available">على الخط</string>
+    <string name="presence_busy">"مشغول"</string>
+    <string name="presence_away">بعيد</string>
+    <string name="presence_idle">استعداد</string>
+    <string name="presence_offline">غير متصل</string>
+    <string name="presence_invisible"> اظهار خارج الخط</string>
+    <string name="me">"أنا"</string>
+    <string name="compose_hint">اكتب للانشاء</string>
+    <string name="send">إرسال</string>
+    <string name="msg_sent_failed">لا يمكن ارسال الرسالة</string>
+    <string name="disconnected_warning">قطع الاتصال بالمخدم . الرسائل سترسل عند الاتصال .</string>
+    <string name="select_link_title">تحديد الرابط</string>
+    <string name="empty_chat_list">لايوجد محاثات جارية .</string>
+    <string name="add_contact_title"> اضافة جهة اتصال</string>
+    <string name="input_contact_label">عنوان البريد الالكتروني للشخص الذي تريد اضافته :</string>
+    <string name="choose_list_label">اختار قائمة :</string>
+    <string name="invite_instruction">اكتب اسم لاضافته من جهات الاتصال</string>
+    <string name="invite_label">ارسال دعوة</string>
+    <string name="setting_title">الاعدادات العامه</string>
+    <string name="hide_offline_contacts">اخفاء جهات الاتصال خارج الخط</string>
+    <string name="notification_group_title">"إعدادات التنبيه"</string>
+    <string name="notification_enabled_title">إخطارات IM</string>
+    <string name="notification_enabled_summary">الاخطار في شريط الحالة عند وصول محاثة فورية</string>
+    <string name="notification_vibrate_title">Vibrate</string>
+    <string name="notification_vibrate_summary">ايضا تشغيل الاهتزاز عند وصول IM</string>
+    <string name="notification_sound_title">الصوت</string>
+    <string name="notification_sound_summary">ايضا تشغيل النغمة عند وصول IM</string>
+    <string name="notification_ringtone_title">حدد نغمات رنين</string>
+    <string name="accept_invitation">Accept</string>
+    <string name="decline_invitation">تراجع</string>
+    <string name="approve_subscription">Accept</string>
+    <string name="decline_subscription">تراجع</string>
+    <string name="notify_groupchat_label">دعوة محادثة مع مجموعة</string>
+    <string name="perm_label">بداية خدمة IM</string>
+    <string name="perm_desc"> يسمح للتطبيقات لبدء خدمة الدردشة عن طريق الانترنت.</string>
+    <string name="error">"تنبيه"</string>
+    <string name="add_list_failed">القائمة لم تضاف</string>
+    <string name="block_contact_failed">جهة الاتصال لم تكن محجوب</string>
+    <string name="unblock_contact_failed">جهة الاتصال لم تكن غير محجوب</string>
+    <string name="select_contact">الرجاء اختيار جهة اتصال اولا</string>
+    <string name="service_error">خطأ بالخدمة</string>
+    <string name="load_contact_list_failed">بلم يتم تحميل قائمة جهات الاتصال </string>
+    <string name="cant_connect_to_server">لايمكن الاتصال بالمخدم . الرجاء تفحص اتصالك</string>
+    <string name="contact_not_loaded">الرجاء الانتظار بينما يتم تحميل قائمة جهات الاتصال</string>
+    <string name="network_error">حدث خطأ في الشبكة</string>
+    <string name="service_not_support">المخدم لايدعم هذه العملية</string>
+    <string name="invalid_password">كلبة المرور التي ادخلتها غير صالحة</string>
+    <string name="internal_server_error">المخدم واجه خطأ</string>
+    <string name="not_implemented">المخدم لايدعم هذه العملية</string>
+    <string name="service_unavaiable">المخدم غير متوفر حاليا</string>
+    <string name="timeout">المخدم مشغول</string>
+    <string name="version_not_supported">المخدم لايدعم الاصدار الحالي</string>
+    <string name="message_queue_full">صف الرسائل ممتلئ</string>
+    <string name="domain_not_supported">المخدم لايدعم التحويل للعنوان</string>
+    <string name="unknown_user">لم يتم التعرف على اسم المستخدم الذي أدخلته</string>
+    <string name="recipient_blocked_the_user">عذرا, انت محجوب بواسطة المستخدم</string>
+    <string name="session_expired">انتهاء مدة الجلسة , الرجاء تسجيل الدخول مرة اخرى</string>
+    <string name="forced_logout">لقد قمت بالتسجيل من عميل اخر</string>
+    <string name="already_logged_in">لقد قمت بالفعل بالتسجيل من عميل اخر</string>
+    <string name="msisdn_error">آسف، لا يمكن قراءة رقم الهاتف من بطاقة SIM. يرجى الاتصال بالمشغل للحصول على المساعدة.</string>
+    <string name="not_signed_in">انت حاليا غير مسجل الدخول</string>
+    <string-array name="default_smiley_names">
+        <item>سعيد</item>
+        <item>كئيب</item>
+        <item>الرمش</item>
+        <item></item>
+        <item>مفاجئ</item>
+        <item>تقبيل</item>
+        <item>صراخ</item>
+        <item>كوول</item>
+        <item>فم العملة</item>
+        <item>الرجل في الفم</item>
+        <item>محرج</item>
+        <item>Angel</item>
+        <item></item>
+        <item>بكاء</item>
+        <item>الشفاه مغلقة</item>
+        <item>ضحك</item>
+        <item>مرتبك</item>
+    </string-array>
+</resources>

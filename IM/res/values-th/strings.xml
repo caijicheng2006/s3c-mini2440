@@ -1,0 +1,132 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="ro_perm_label">อ่านข้อความด่วน</string>
+    <string name="ro_perm_desc">อณุญาติโปรแกรมให้อ่านข้อมูลจากผู้ให้ข้อมูล</string>
+    <string name="wo_perm_label">เขียนข้อความโต้ตอบแบบทันที</string>
+    <string name="wo_perm_desc">อณุญาติโปรแกรมให้เขียนข้อมูลให้ผู้ให้ข้อมูล</string>
+    <string name="im_label">"IM"</string>
+    <string name="landing_page_title">ห้องแชท เลือกบัญชีผู้ใช้</string>
+    <string name="menu_add_account">"เพิ่มบัญชี"</string>
+    <string name="menu_remove_account">"ลบบัญชี"</string>
+    <string name="menu_sign_out_all">ออกจากระบบทั้งหมด</string>
+    <string name="choose_account_title">ห้องแชท เลือกบัญชีผู้ใช้</string>
+    <string name="menu_cancel_signin">ยกเลิกการเข้าระบบ</string>
+    <string name="menu_add_contact">"เพิ่มที่อยู่ติดต่อ"</string>
+    <string name="menu_remove_contact">"ลบที่อยู่ติดต่อ"</string>
+    <string name="menu_block_contact">รายชื่อที่ต้องการกีดขวาง</string>
+    <string name="menu_view_blocked">ทำการกีดขวางแล้ว</string>
+    <string name="menu_view_accounts">รายการบัญชีข้อมูล</string>
+    <string name="menu_settings">"การตั้งค่า"</string>
+    <string name="menu_start_chat">เริ่มแชท</string>
+    <string name="menu_sign_out">ออกจากระบบ</string>
+    <string name="menu_view_profile">ดูรายละเอียด</string>
+    <string name="menu_end_conversation">จบการโทร</string>
+    <string name="menu_view_contact_list">รายการรายชื่อ</string>
+    <string name="menu_invite_contact">เชิญ \ u2026</string>
+    <string name="menu_switch_chats">แชทสวิทช์</string>
+    <string name="menu_insert_smiley">แทรกตัวยิ้ม</string>
+    <string name="confirm">"ยืนยัน"</string>
+    <string name="signout_all_confirm_message">ต้องการออกจากบริการทั้งหมดหรือไม่</string>
+    <string name="ok">"ตกลง"</string>
+    <string name="cancel">"ยกเลิก"</string>
+    <string name="yes">"ตกลง"</string>
+    <string name="no">"ยกเลิก"</string>
+    <string name="remember_password">จำรหัสผ่านของฉัน</string>
+    <string name="keep_me_signed_in">เข้าสู่ระบบโดยอัตโนมัติ</string>
+    <string name="sign_up">ไม่มีบัญชีอยู่แล้ว?</string>
+    <string name="check_auto_sign_in">ตัวเลือกนี้ลงนามคุณในเวลาที่คุณเปิดโปรแกรมนี้โดยอัตโนมัติ ต้องการปิดใช้งานตัวเลือก ให้เข้าสู่ระบบออก จากนั้นล้าง \ "กล่องเข้าสู่ระบบโดยอัตโนมัติ \"</string>
+    <string name="sign_in">เข้าสู่ระบบ</string>
+    <string name="signing_in_wait">การลงนามใน \ u2026</string>
+    <string name="bg_data_prompt_title">ข้อมูลพื้นฐานใช้ไม่ได้</string>
+    <string name="bg_data_prompt_ok">"ใช้งาน"</string>
+    <string name="subscriptions">เชิญเพื่อน</string>
+    <string name="empty_conversation_group">ไม่มีการสนทนา</string>
+    <string name="contacts_picker_title">เลือกรูปแบบวันที่</string>
+    <string name="contact_filter_hint">พิมพ์ที่จะหารายชื่อผู้ติดต่อ</string>
+    <string name="empty_contact_list">ไม่พบรายชื่อ</string>
+    <string name="no_blocked_contact">ไม่มีรายชื่อที่ถูกบล๊อค</string>
+    <string name="contact_profile_title">รายละเอียดรายชื่อ</string>
+    <string name="label_client_type">รูปแบบลูกค้า</string>
+    <string name="client_type_computer">คอมพิวเตอร์</string>
+    <string name="client_type_mobile">"มือถือ"</string>
+    <string name="presence_available">ออนไลน์</string>
+    <string name="presence_busy">"ไม่ว่าง"</string>
+    <string name="presence_away">ไม่อยู่</string>
+    <string name="presence_idle">นิ่งเฉย</string>
+    <string name="presence_invisible">ออกจากการใช้งาน</string>
+    <string name="me">"ฉัน"</string>
+    <string name="compose_hint">พิมพ์การเขียน</string>
+    <string name="send">"ส่ง"</string>
+    <string name="msg_sent_failed">ไม่สามารถส่งข้อความได้</string>
+    <string name="disconnected_warning">เซิร์ฟเวอร์ขาดการเชื่อมต่อ ข้อความจะถูกส่งเมื่อออนไลน์</string>
+    <string name="select_link_title">เลือกลิงค์</string>
+    <string name="empty_chat_list">ไม่มีการสนทนาที่ใช้งาน</string>
+    <string name="add_contact_title">"เพิ่มที่อยู่ติดต่อ"</string>
+    <string name="input_contact_label">แก้ไขของผู้ที่ต้องการเชิญ</string>
+    <string name="choose_list_label">เลือกรายการ</string>
+    <string name="invite_instruction">พิมพ์ชื่อที่จะเพิ่มจากรายชื่อ</string>
+    <string name="invite_label">ส่งคำเชิญ</string>
+    <string name="setting_title">"การตั้งค่าทั่วไป"</string>
+    <string name="hide_offline_contacts">หลบรายชื่อที่ออฟไลน์</string>
+    <string name="notification_group_title">"การตั้งค่าการแจ้งเตือน"</string>
+    <string name="notification_enabled_title">การแจ้งเตือน IM</string>
+    <string name="notification_enabled_summary">แจ้งเตือนในแถบสถานะเมื่อมี IMส่งมา</string>
+    <string name="notification_vibrate_title">"สั่น"</string>
+    <string name="notification_vibrate_summary">ใช้การสั่นเวลา IM เข้า</string>
+    <string name="notification_sound_title">เสียง</string>
+    <string name="notification_sound_summary">ใช้ริงโทนเวลา IM เข้า</string>
+    <string name="notification_ringtone_title">"เลือกเสียงเรียกเข้า"</string>
+    <string name="accept_invitation">ยอมรับ</string>
+    <string name="decline_invitation">ปฏิเสธ</string>
+    <string name="approve_subscription">ยอมรับ</string>
+    <string name="decline_subscription">ปฏิเสธ</string>
+    <string name="notify_groupchat_label">เชิญเข้าร่วมกลุ่มแชท</string>
+    <string name="perm_label">เริ่มให้บริการ IM</string>
+    <string name="perm_desc">อนุญาตโปรแกรมให้เริ่มบริการ IM จากอินเตอร์เนท</string>
+    <string name="error">"โปรดทราบ"</string>
+    <string name="add_list_failed">รายการไม่ได้ถูกเพิ่ม</string>
+    <string name="block_contact_failed">รายชื่อที่ไม่ได้ถูกระงับ</string>
+    <string name="unblock_contact_failed">รายชื่อที่ถูกระงับ</string>
+    <string name="select_contact">โปรดเลือกรายชื่อก่อน</string>
+    <string name="service_error">ข้อผิดพลาดการบริการ!</string>
+    <string name="load_contact_list_failed">รายการรายชื่อไม่ถูกโหลด</string>
+    <string name="cant_connect_to_server">ไม่สามารถเชื่อมต่อไปยังเซอเวอ กรุณาตรวจสอบการเชื่อมต่ออินเตอเนท</string>
+    <string name="contact_not_loaded">โปรดรอระหว่างดาวน์โหลดรายการรายชื่อ</string>
+    <string name="network_error">เกิดการล้มเหลวของเครือข่าย</string>
+    <string name="service_not_support">เซิร์ฟเวอร์ไม่สนับสนุนการทำงานนี้</string>
+    <string name="invalid_password">รหัสผ่านที่คุณใส่ไม่ถูกต้อง</string>
+    <string name="internal_server_error">เซิร์ฟเวอร์พบข้อผิดพลาด</string>
+    <string name="not_implemented">เซิร์ฟเวอร์ไม่สนับสนุนการทำงานนี้</string>
+    <string name="service_unavaiable">เซิร์ฟเวอร์อยู่ในขณะไม่พร้อมใช้งาน</string>
+    <string name="timeout">เซิร์ฟเวอร์หมดเวลา</string>
+    <string name="version_not_supported">เซิร์ฟเวอร์ไม่สนับสนุนเวอร์ชันปัจจุบัน</string>
+    <string name="message_queue_full">คิวข้อความเต็ม</string>
+    <string name="domain_not_supported">เซิร์ฟเวอร์ไม่สนับสนุนการส่งต่อไปยังโดเมน</string>
+    <string name="unknown_user">ชื่อผู้ใช้ที่คุณป้อนไม่เป็นที่รู้จัก</string>
+    <string name="recipient_blocked_the_user">ขออภัยคุณถูกบล็อกโดยผู้ใช้</string>
+    <string name="session_expired">เซสชั่นได้หมดอายุแล้วโปรดลงชื่อเข้าใช้อีกครั้ง</string>
+    <string name="forced_logout">คุณได้เลือกที่จะเปิดตัวแอพลิเคชันนี้ได้โดยการเริ่มต้นสำหรับการกระทำบางอย่าง</string>
+    <string name="already_logged_in">คุณได้ลงนามไว้แล้วในจากลูกค้าอื่น</string>
+    <string name="msisdn_error">ขออภัยหมายเลขโทรศัพท์ไม่สามารถอ่านได้จากซิมการ์ดของคุณ กรุณาติดต่อประชาสัมพันธ์เพื่อขอความช่วยเหลือ</string>
+    <string name="not_signed_in">คุณยังไม่ได้ลงชื่อเข้า</string>
+    <string-array name="default_smiley_names">
+        <item>มีความสุข</item>
+        <item>เศร้า</item>
+        <item>ขยิบตา</item>
+        <item>แลบลิ้น</item>
+        <item>ประหลาดใจ</item>
+        <item>จูบ</item>
+        <item>ตะโกน</item>
+        <item>เจ๋ง</item>
+        <item>Money mouth</item>
+        <item>เท้าในปาก</item>
+        <item>น่าอาย</item>
+        <item>นางฟ้า</item>
+        <item>ไม่มีการตัดสินใจ</item>
+        <item>ร้องให้</item>
+        <item>ปิดปาก</item>
+        <item>หัวเราะ</item>
+        <item>สับสน</item>
+    </string-array>
+</resources>

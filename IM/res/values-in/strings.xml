@@ -1,0 +1,137 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="ro_perm_label">"baca pesan instan"</string>
+    <string name="ro_perm_desc">"Memungkinkan aplikasi membaca data dari penyedia konten IM."</string>
+    <string name="wo_perm_label">"tulis pesan cepat"</string>
+    <string name="wo_perm_desc">"Memungkinkan aplikasi untuk menulis data ke penyedia konten IM."</string>
+    <string name="im_label">"IM"</string>
+    <string name="landing_page_title">"Ngobrol - pilih akun"</string>
+    <string name="menu_add_account">"Tambahkan akun"</string>
+    <string name="menu_edit_account">"Ubah akun"</string>
+    <string name="menu_remove_account">"Hapus akun"</string>
+    <string name="menu_sign_out_all">"Keluar semua"</string>
+    <string name="choose_account_title">"Ngobrol - pilih akun"</string>
+    <string name="menu_cancel_signin">"Batalkan masuk"</string>
+    <string name="menu_add_contact">Tambahkan kontak</string>
+    <string name="menu_remove_contact">"Hapus kenalan"</string>
+    <string name="menu_block_contact">"Blokir kontak"</string>
+    <string name="menu_view_blocked">"Diblokir"</string>
+    <string name="menu_view_accounts">"Daftar akun"</string>
+    <string name="menu_settings">Pengaturan</string>
+    <string name="menu_start_chat">"Mulai ngobrol"</string>
+    <string name="menu_sign_out">"Keluar"</string>
+    <string name="menu_view_profile">"Lihat profil"</string>
+    <string name="menu_end_conversation">"Akhiri obrolan"</string>
+    <string name="menu_view_contact_list">"Daftar kontak"</string>
+    <string name="menu_invite_contact">"Undang..."</string>
+    <string name="menu_switch_chats">"Alihkan obrolan"</string>
+    <string name="menu_insert_smiley">"Masukan senyum"</string>
+    <string name="default_input_title">Masukan</string>
+    <string name="confirm">Konfirmasi</string>
+    <string name="signout_all_confirm_message">"Apakah Anda ingin keluar dari semua servis?"</string>
+    <string name="ok">"OK"</string>
+    <string name="cancel">"Batal"</string>
+    <string name="yes">"OK"</string>
+    <string name="no">"Batal"</string>
+    <string name="remember_password">"Ingat kata sandi saya"</string>
+    <string name="keep_me_signed_in">"Masukkan saya secara otomatis."</string>
+    <string name="sign_up">"Tidak mempunyai akun?"</string>
+    <string name="check_auto_sign_in">"Pilihan ini secara otomatis memasukkan Anda ke dalam setiap kali Anda membuka aplikasi ini. Untuk menonaktifkan pilihan, keluar, kemudian kosongkan kotak \ "Sign me in automatically \""</string>
+    <string name="sign_in">"Masuk"</string>
+    <string name="signing_in_wait">"Sedang masuk..."</string>
+    <string name="bg_data_prompt_title">"Data latar belakang tidak aktif"</string>
+    <string name="bg_data_prompt_ok">"Aktifkan"</string>
+    <string name="bg_data_prompt_cancel">Keluar</string>
+    <string name="subscriptions">"Undangan teman"</string>
+    <string name="empty_contact_group">Kosong</string>
+    <string name="empty_conversation_group">"Tidak ada konversasi"</string>
+    <string name="contacts_picker_title">"Pilih kontak untuk mengundang"</string>
+    <string name="contact_filter_hint">"Ketik untuk mencari kontak"</string>
+    <string name="empty_contact_list">"Tidak ada kontak ditemukan."</string>
+    <string name="no_blocked_contact">"Tidak ada kontak yang diblokir."</string>
+    <string name="contact_profile_title">"Profil kontak"</string>
+    <string name="label_client_type">"Tipe klien:"</string>
+    <string name="client_type_computer">"Komputer"</string>
+    <string name="client_type_mobile">"Seluler"</string>
+    <string name="presence_available">"Online"</string>
+    <string name="presence_busy">"Sibuk"</string>
+    <string name="presence_away">"Tidak di tempat"</string>
+    <string name="presence_idle">"Siaga"</string>
+    <string name="presence_offline">Offline</string>
+    <string name="presence_invisible">"Tampak tidak pada jaringan"</string>
+    <string name="me">"Saya"</string>
+    <string name="compose_hint">"Ketik untuk menulis"</string>
+    <string name="send">Kirim</string>
+    <string name="msg_sent_failed">"Pesan ini tidak dapat dikirim."</string>
+    <string name="disconnected_warning">"Kehilangan koneksi ke server. Pesan akan dikirim ketika online."</string>
+    <string name="select_link_title">"Pilih tautan"</string>
+    <string name="empty_chat_list">"Tidak ada obrolan baru."</string>
+    <string name="add_contact_title">Tambahkan kontak</string>
+    <string name="input_contact_label">"Alamat email dari orang yang anda ingin undang:"</string>
+    <string name="choose_list_label">"Pilih daftar:"</string>
+    <string name="invite_instruction">"Ketik nama untuk ditambahkan dari kontak."</string>
+    <string name="invite_label">"Kirim undangan"</string>
+    <string name="setting_title">Pengaturan umum</string>
+    <string name="hide_offline_contacts">"Sembunyikan kontak yang offline"</string>
+    <string name="notification_group_title">"Setelan pemberitahuan"</string>
+    <string name="notification_enabled_title">"Notifikasi IM"</string>
+    <string name="notification_enabled_summary">"Beri tahu di bilah status ketika IM tiba"</string>
+    <string name="notification_vibrate_title">Getar</string>
+    <string name="notification_vibrate_summary">"Juga bergetar ketika IM tiba"</string>
+    <string name="notification_sound_title">"Suara"</string>
+    <string name="notification_sound_summary">"Juga mainkan nada dering ketika IM tiba"</string>
+    <string name="notification_ringtone_title">Pilih nada dering</string>
+    <string name="accept_invitation">Terima</string>
+    <string name="decline_invitation">"Tolak"</string>
+    <string name="approve_subscription">Terima</string>
+    <string name="decline_subscription">"Tolak"</string>
+    <string name="notify_groupchat_label">"Undangan ngobrol grup"</string>
+    <string name="perm_label">"Mulai layanan IM"</string>
+    <string name="perm_desc">"Mengizinkan aplikasi untuk memulai layanan IM melalui internet."</string>
+    <string name="error">"Perhatian"</string>
+    <string name="add_list_failed">"Daftar tidak ditambahkan."</string>
+    <string name="block_contact_failed">"Kontak tidak diblokir."</string>
+    <string name="unblock_contact_failed">"Kontak tidak terblokir."</string>
+    <string name="select_contact">"Pilih kontak telebih dahulu."</string>
+    <string name="service_error">"Layanan galat!"</string>
+    <string name="load_contact_list_failed">"Daftar kontak tidak memuat."</string>
+    <string name="cant_connect_to_server">"Tidak dapat terhubung ke server. Silahkan cek koneksi anda."</string>
+    <string name="contact_not_loaded">"Harap tunggu saat kontak anda dimuat."</string>
+    <string name="network_error">"Sebuah kesalahan jaringan terjadi."</string>
+    <string name="service_not_support">"Server tidak mendukung fungsi ini."</string>
+    <string name="invalid_password">"Kata sandi yang anda masukan tidak valid."</string>
+    <string name="internal_server_error">"Server menemukan kesalahan."</string>
+    <string name="not_implemented">"Server tidak mendukung fungsi ini."</string>
+    <string name="service_unavaiable">"Server saat ini tidak tersedia."</string>
+    <string name="timeout">"Waktu server telah habis."</string>
+    <string name="version_not_supported">"Server tidak mendukung versi saat ini."</string>
+    <string name="message_queue_full">"Antrian pesan penuh."</string>
+    <string name="domain_not_supported">"Server tidak mendukung meneruskan ke domain."</string>
+    <string name="unknown_user">"Nama pengguna yang anda masukkan tidak dikenali."</string>
+    <string name="recipient_blocked_the_user">Maaf, anda diblokir oleh pengguna."</string>
+    <string name="session_expired">"Sesi ini telah berakhir, silahkan masuk lagi."</string>
+    <string name="forced_logout">"Anda telah masuk dari klien lain."</string>
+    <string name="already_logged_in">"anda telah masuk dari klien lain."</string>
+    <string name="msisdn_error">"Maaf, nomor telepon tidak dapat dibaca dari kartu SIM anda. Silahkan kontak operator untuk bantuan."</string>
+    <string name="not_signed_in">"Saat ini anda tidak masuk."</string>
+    <string-array name="default_smiley_names">
+        <item>"Senang"</item>
+        <item>"Sedih"</item>
+        <item>"Berkedip"</item>
+        <item>"Lidah menjulur keluar"</item>
+        <item>"Terkejut"</item>
+        <item>"Berciuman"</item>
+        <item>"Berteriak"</item>
+        <item>"Dingin"</item>
+        <item>"Mulut uang"</item>
+        <item>"Kaki di mulut"</item>
+        <item>"Malu"</item>
+        <item>"Malaikat"</item>
+        <item>"Belum ditentukan"</item>
+        <item>"Menangis"</item>
+        <item>"Bibir terkunci"</item>
+        <item>"Tertawa"</item>
+        <item>"Bingung"</item>
+    </string-array>
+</resources>

@@ -1,0 +1,137 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="ro_perm_label">baca mesej segera</string>
+    <string name="ro_perm_desc">Benarkan aplikasi untuk membaca data daripada pembekal kandungan IM.</string>
+    <string name="wo_perm_label">tulis mesej segera</string>
+    <string name="wo_perm_desc">Benarkan aplikasi untuk menulis data kepada pembekal kandungan IM.</string>
+    <string name="im_label">"IM"</string>
+    <string name="landing_page_title">Sembang – Pilih akaun</string>
+    <string name="menu_add_account">Tambah akaun</string>
+    <string name="menu_edit_account">Edit akaun</string>
+    <string name="menu_remove_account">Alih keluar akaun</string>
+    <string name="menu_sign_out_all">Daftar keluar semua</string>
+    <string name="choose_account_title">Sembang – Pilih akaun</string>
+    <string name="menu_cancel_signin">Batalkan daftar masuk</string>
+    <string name="menu_add_contact">Tambah kenalan</string>
+    <string name="menu_remove_contact">“Hapuskan kenalan”</string>
+    <string name="menu_block_contact">Sekat kenalan</string>
+    <string name="menu_view_blocked">Disekat</string>
+    <string name="menu_view_accounts">Senarai akaun</string>
+    <string name="menu_settings">Tetapan</string>
+    <string name="menu_start_chat">Mulakan sembang</string>
+    <string name="menu_sign_out">Daftar keluar</string>
+    <string name="menu_view_profile">Lihat profil</string>
+    <string name="menu_end_conversation">Tamatkan sembang</string>
+    <string name="menu_view_contact_list">Senarai kenalan</string>
+    <string name="menu_invite_contact">Jemput\u2026</string>
+    <string name="menu_switch_chats">Tukar sembang</string>
+    <string name="menu_insert_smiley">Masukkan smiley</string>
+    <string name="default_input_title">Input</string>
+    <string name="confirm">Sahkan</string>
+    <string name="signout_all_confirm_message">Daftar keluar daripada semua perkhidmatan?</string>
+    <string name="ok">"OK"</string>
+    <string name="cancel">Batalkan</string>
+    <string name="yes">"OK"</string>
+    <string name="no">Batalkan</string>
+    <string name="remember_password">Ingat kata laluan saya.</string>
+    <string name="keep_me_signed_in">Daftar masuk secara automatik.</string>
+    <string name="sign_up">Tiada akaun?</string>
+    <string name="check_auto_sign_in">Pilihan ini mendaftar masuk anda secara automatik setiap kali anda membuka aplikasi ini. Untuk melumpuhkan pilihan, daftar keluar, kemudian kosongkan kotak \”Daftar masuk saya secara automatik\”</string>
+    <string name="sign_in">Daftar masuk</string>
+    <string name="signing_in_wait">Mendaftar masuk\u2026</string>
+    <string name="bg_data_prompt_title">Data latar belakang dilumpuhkan</string>
+    <string name="bg_data_prompt_ok">"Dayakan"</string>
+    <string name="bg_data_prompt_cancel">Henti</string>
+    <string name="subscriptions">Jemputan kawan</string>
+    <string name="empty_contact_group">Kosong</string>
+    <string name="empty_conversation_group">Tiada perbualan</string>
+    <string name="contacts_picker_title">Pilih kenalan(-kenalan) untuk dijemput</string>
+    <string name="contact_filter_hint">Taip untuk cari kenalan</string>
+    <string name="empty_contact_list">Tiada kenalan ditemui.</string>
+    <string name="no_blocked_contact">Tiada kenalan disekat.</string>
+    <string name="contact_profile_title">Profil kenalan</string>
+    <string name="label_client_type">Jenis pelanggan:</string>
+    <string name="client_type_computer">Komputer</string>
+    <string name="client_type_mobile">"Mudah Alih"</string>
+    <string name="presence_available">Dalam talian</string>
+    <string name="presence_busy">"Sibuk"</string>
+    <string name="presence_away">Tiada</string>
+    <string name="presence_idle">Melahu</string>
+    <string name="presence_offline">Luar talian</string>
+    <string name="presence_invisible">Muncul di luar talian</string>
+    <string name="me">"Saya"</string>
+    <string name="compose_hint">Taip untuk karang</string>
+    <string name="send">Hantar</string>
+    <string name="msg_sent_failed">Mesej ini tidak boleh dihantar.</string>
+    <string name="disconnected_warning">Sambungan ke pelayan putus. Mesej akan dihantar apabila dalam talian.</string>
+    <string name="select_link_title">Pilih pautan</string>
+    <string name="empty_chat_list">Tiada sembang aktif.</string>
+    <string name="add_contact_title">Tambah kenalan</string>
+    <string name="input_contact_label">Alamat emel orang yang anda ingin jemput:</string>
+    <string name="choose_list_label">Pilih senarai:</string>
+    <string name="invite_instruction">Taipkan nama untuk tambah daripada Kenalan.</string>
+    <string name="invite_label">Hantar jemputan</string>
+    <string name="setting_title">Tetapan am</string>
+    <string name="hide_offline_contacts">Sembunyikan kenalan luar talian</string>
+    <string name="notification_group_title">"Tetapan pemberitahuan"</string>
+    <string name="notification_enabled_title">Pemberitahuan IM</string>
+    <string name="notification_enabled_summary">Beritahu dalam status bar apabila IM diterima</string>
+    <string name="notification_vibrate_title">Bergetar</string>
+    <string name="notification_vibrate_summary">Juga bergetar apabila IM diterima</string>
+    <string name="notification_sound_title">Bunyi</string>
+    <string name="notification_sound_summary">Mainkan nada dering bila IM diterima</string>
+    <string name="notification_ringtone_title">Pilih nada dering</string>
+    <string name="accept_invitation">Terima</string>
+    <string name="decline_invitation">Tolak</string>
+    <string name="approve_subscription">Terima</string>
+    <string name="decline_subscription">Tolak</string>
+    <string name="notify_groupchat_label">Jemputan sembang berkumpulan</string>
+    <string name="perm_label">mulakan khidmat IM</string>
+    <string name="perm_desc">Membenarkan aplikasi memulakan khidmat IM melalui Internet.</string>
+    <string name="error">"Perhatian"</string>
+    <string name="add_list_failed">Senarai tidak ditambah.</string>
+    <string name="block_contact_failed">Kenalan tidak disekat.</string>
+    <string name="unblock_contact_failed">Kenalan disekat.</string>
+    <string name="select_contact">Sila pilih kenalan dahulu.</string>
+    <string name="service_error">Ralat perkhidmatan!</string>
+    <string name="load_contact_list_failed">Senarai kenalan tidak dimuatkan.</string>
+    <string name="cant_connect_to_server">Tidak dapat menyambung ke pelayan. Sila periksa sambungan anda.</string>
+    <string name="contact_not_loaded">Sila tunggu sementara senarai Kenalan anda dimuatkan.</string>
+    <string name="network_error">Ralat rangkaian terjadi.</string>
+    <string name="service_not_support">Pelayan tidak menyokong funsi ini.</string>
+    <string name="invalid_password">Kata laluan yang anda masukkan tidak sah.</string>
+    <string name="internal_server_error">Pelayan menemui ralat.</string>
+    <string name="not_implemented">Pelayan tidak menyokong funsi ini.</string>
+    <string name="service_unavaiable">Pelayan tidak tersedia buat masa sekarang.</string>
+    <string name="timeout">Pelayan tamat masa.</string>
+    <string name="version_not_supported">Pelayan tidak menyokong versi sekarang.</string>
+    <string name="message_queue_full">Baris tunggu mesej penuh.</string>
+    <string name="domain_not_supported">Pelayan tidak menyokong memajukan ke domain.</string>
+    <string name="unknown_user">Nama pengguna yang anda masukkan tidak dikenali.</string>
+    <string name="recipient_blocked_the_user">Maaf, anda disekat oleh pengguna.</string>
+    <string name="session_expired">Sessi luput, sila daftar masuk semula.</string>
+    <string name="forced_logout">anda telah daftar masuk dari pelanggan lain.</string>
+    <string name="already_logged_in">anda telah daftar masuk dari pelanggan lain.</string>
+    <string name="msisdn_error">Maaf, nombor telefon tidak dapat dibaca dari kad SIM anda. Sila hubungi operator anda untuk bantuan.</string>
+    <string name="not_signed_in">Anda tidak daftar masuk sekarang.</string>
+    <string-array name="default_smiley_names">
+        <item>Gembira</item>
+        <item>Sedih</item>
+        <item>Berkelip</item>
+        <item>Lidah terjelir</item>
+        <item>Terperanjat</item>
+        <item>Bercium</item>
+        <item>Menjerit</item>
+        <item>Dingin</item>
+        <item>Mulut duit</item>
+        <item>Kaki di dalam mulut</item>
+        <item>Dimalukan</item>
+        <item>Bidadari</item>
+        <item>Tidak diputuskan</item>
+        <item>Menangis</item>
+        <item>Dirahsiakan</item>
+        <item>Ketawa</item>
+        <item>Keliru</item>
+    </string-array>
+</resources>

@@ -1,0 +1,129 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="ro_perm_label">তাৎক্ষণিক বার্তা পড়া</string>
+    <string name="ro_perm_desc">অ্যাপলিকেশন আইএম ভিতরের উপাদান সরবরাহকারী থেকে ডেটা পড়তে অনুমোদন করে.</string>
+    <string name="wo_perm_label">তাৎক্ষণিক বার্তা লিখুন</string>
+    <string name="wo_perm_desc">অ্যাপলিকেশন আইএম ভিতরের উপাদান সরবরাহকারী থেকে ডেটা লেখতে অনুমোদন করে.</string>
+    <string name="im_label">IM করুন</string>
+    <string name="landing_page_title">আড্ডা - একটি একাউন্ট নির্বাচন করুন</string>
+    <string name="menu_add_account">একাউন্ট যোগ করুন</string>
+    <string name="menu_edit_account">একাউন্ট সম্পাদনা করুন</string>
+    <string name="menu_remove_account">একাউন্ট মুছে ফেলুন</string>
+    <string name="menu_sign_out_all">সব সাইন আউট</string>
+    <string name="choose_account_title">আড্ডা - একটি একাউন্ট নির্বাচন করুন</string>
+    <string name="menu_cancel_signin">সাইন ইন বাতিল</string>
+    <string name="menu_add_contact">ঠিকানা যোগ করুন</string>
+    <string name="menu_remove_contact">পরিচিতি মুছুন</string>
+    <string name="menu_block_contact">ব্লক যোগাযোগ  সমূহ</string>
+    <string name="menu_view_blocked">ব্লক</string>
+    <string name="menu_view_accounts">একাউন্ট তালিকা</string>
+    <string name="menu_settings">সেটিংস</string>
+    <string name="menu_start_chat">চ্যাট শুরু করুন</string>
+    <string name="menu_sign_out">সাইন আউট</string>
+    <string name="menu_view_profile">প্রোফাইল দেখুন</string>
+    <string name="menu_end_conversation">চ্যাট শেষ</string>
+    <string name="menu_view_contact_list">তালিকা যোগাযোগ</string>
+    <string name="menu_invite_contact">আমন্ত্রণ\u2026</string>
+    <string name="menu_switch_chats">সুইচ চ্যাট</string>
+    <string name="menu_insert_smiley">সন্নিবেশ স্মাইলি</string>
+    <string name="default_input_title">নিবেশ</string>
+    <string name="confirm">নিশ্চিত করা</string>
+    <string name="signout_all_confirm_message">আপনি কি সমস্ত পরিষেবা সাইন আউট করতে চান?</string>
+    <string name="remember_password">পাসওয়ার্ড মনে রাখ.</string>
+    <string name="keep_me_signed_in">আমাকে স্বয়ংক্রিয়ভাবে সাইন ইন করুন.</string>
+    <string name="sign_up">ডন \ u2019t একটা একাউন্ট আছে?</string>
+    <string name="check_auto_sign_in">এই বিকল্পটি স্বয়ংক্রিয়ভাবে প্রত্যেক সময় আপনি এই অ্যাপ্লিকেশন খোলার আপনি লক্ষণ. বিকল্প নিষ্ক্রিয়, সাইন আউট তারপর, \ "স্বয়ংক্রিয়ভাবে আমার সাইন \" চেক বাক্স মুছে ফেলা হবে.</string>
+    <string name="sign_in">সাইন ইন</string>
+    <string name="signing_in_wait">মধ্যে স্বাক্ষরকারী\u2026</string>
+    <string name="bg_data_prompt_title">পটভূমি ডেটা নিষ্ক্রিয়</string>
+    <string name="bg_data_prompt_cancel">অব্যাহতিপ্রাপ্ত</string>
+    <string name="subscriptions">বন্ধুদের আমন্ত্রণ</string>
+    <string name="empty_contact_group">খালি</string>
+    <string name="empty_conversation_group">কোনও আলাপচারিতা নেই</string>
+    <string name="contacts_picker_title">পরিচিতি (গুলি) আমন্ত্রণ জানাতে নির্বাচন করুন</string>
+    <string name="contact_filter_hint">যোগাযোগের খুঁজে লিখুন</string>
+    <string name="empty_contact_list">কোনো পরিচিতি পাওয়া যায়নি.</string>
+    <string name="no_blocked_contact">কোনো ঠিকানা ব্লক করা.</string>
+    <string name="contact_profile_title">প্রোফাইল যোগাযোগ</string>
+    <string name="label_client_type">সাইলেন্ট টাইপ:</string>
+    <string name="client_type_computer">কম্পিউটার</string>
+    <string name="presence_available">অনলাইন</string>
+    <string name="presence_busy">ব্যস্ত</string>
+    <string name="presence_away">দূরে</string>
+    <string name="presence_idle">নিষ্ক্রিয়</string>
+    <string name="presence_offline">অফলাইন</string>
+    <string name="presence_invisible">অফলাইন প্রদর্শিত </string>
+    <string name="compose_hint">থেকে গুটান লিখুন</string>
+    <string name="send">পাঠান</string>
+    <string name="msg_sent_failed">এই বার্তা পাঠানো যায়নি.</string>
+    <string name="disconnected_warning">সার্ভারের সাথে সংযোগ বিচ্ছিন্ন হয়েছে. বার্তা পাঠানো যখন অনলাইন হবে.</string>
+    <string name="select_link_title">লিঙ্ক নির্বাচন করুন</string>
+    <string name="empty_chat_list">কোন সক্রিয় চ্যাট.</string>
+    <string name="add_contact_title">ঠিকানা যোগ করুন</string>
+    <string name="input_contact_label">আপনি যাকে আমন্ত্রণ জানাতে চান তার ইমেইল ঠিকানা:</string>
+    <string name="choose_list_label">একটি তালিকা নির্বাচন করুন:</string>
+    <string name="invite_instruction">পরিচিতিগুলিতে থেকে যোগ করার জন্য একটি নাম লিখুন.</string>
+    <string name="invite_label">আমন্ত্রণ পাঠান</string>
+    <string name="setting_title">সাধারণ সেটিংস</string>
+    <string name="hide_offline_contacts">অফলাইন পরিচিতি লুকান</string>
+    <string name="notification_group_title">বিজ্ঞপ্তি সেটিংস</string>
+    <string name="notification_enabled_title">IM এর বিজ্ঞপ্তি</string>
+    <string name="notification_enabled_summary">স্ট্যাটাস বার যখন IM-আসার মধ্যে জ্ঞাপন করা</string>
+    <string name="notification_vibrate_title">কাম্পান</string>
+    <string name="notification_vibrate_summary">এ ছাড়াও যখন  IM আসে তখন কম্পিত করা</string>
+    <string name="notification_sound_title">ধ্বনি</string>
+    <string name="notification_sound_summary">রিংটোন বাজুক  যখন আইএম উপস্থিত হয়</string>
+    <string name="notification_ringtone_title">রিংটোন নির্বাচন করুন</string>
+    <string name="accept_invitation">গ্রহণ</string>
+    <string name="decline_invitation">অস্বীকার</string>
+    <string name="approve_subscription">গ্রহণ</string>
+    <string name="decline_subscription">অস্বীকার</string>
+    <string name="notify_groupchat_label">গ্রুপ চ্যাটে আমন্ত্রণ</string>
+    <string name="perm_label">IM পরিষেবা শুরু</string>
+    <string name="perm_desc">অ্যাপলিকেশন উদ্দেশ্য হয়ে আইএম সার্ভিস শুরু করতে অনুমোদন করে।.</string>
+    <string name="add_list_failed">তালিকায় যোগ করা হয়নি.</string>
+    <string name="block_contact_failed">যোগাযোগ ব্লক করা না হয়.</string>
+    <string name="unblock_contact_failed">যোগাযোগ আনব্লক করা হয়েছিল না .</string>
+    <string name="select_contact">পরিচিতির প্রথম নির্বাচন করুন.</string>
+    <string name="service_error">সার্ভিস ত্রুটি!</string>
+    <string name="load_contact_list_failed">যোগাযোগ তালিকা লোড করে নি.</string>
+    <string name="cant_connect_to_server">সার্ভারের সাথে সংযোগ করতে পারবে না. আপনার সংযোগ পরখ করে দেখুন.</string>
+    <string name="contact_not_loaded">যখন আপনার যোগাযোগ তালিকা লোড অনুগ্রহ করে অপেক্ষা করুন.</string>
+    <string name="network_error">একটি নেটওয়ার্ক ত্রুটি ঘটেছে.</string>
+    <string name="service_not_support">সার্ভার এই কার্যকারিতা সমর্থন না.</string>
+    <string name="invalid_password">পাসওয়ার্ড আপনি প্রবেশ করিয়েছেন তা বৈধ নয়.</string>
+    <string name="internal_server_error">সার্ভারটি একটি ত্রুটির সম্মুখীন.</string>
+    <string name="not_implemented">সার্ভার এই কার্যকারিতা সমর্থন না.</string>
+    <string name="service_unavaiable">সার্ভার বর্তমানে অনুপলব্ধ.</string>
+    <string name="timeout">সার্ভার আউট বাংলাদেশের করেছে.</string>
+    <string name="version_not_supported">সার্ভার বর্তমান ভার্সন সাপোর্ট করে না.</string>
+    <string name="message_queue_full">বার্তা কিউ 'র পূর্ণ.</string>
+    <string name="domain_not_supported">সার্ভার পুনঃপ্রেরণ ডোমেইন থেকে সমর্থন করে না.</string>
+    <string name="unknown_user">ব্যবহারকারীর নাম আপনি প্রবেশ স্বীকৃত হয় না.</string>
+    <string name="recipient_blocked_the_user">দুঃখিত, আপনার ব্যবহারকারী দ্বারা ব্লক করা হয়.</string>
+    <string name="session_expired">সেশানের মেয়াদ শেষ হয়েছে, আবার সাইন ইন করুন.</string>
+    <string name="forced_logout">আপনি থেকে অন্য ক্লায়েন্ট সাইন ইন করেছেন.</string>
+    <string name="already_logged_in">আপনি থেকে অন্য ক্লায়েন্ট মধ্যে ইতিমধ্যেই স্বাক্ষরিত.</string>
+    <string name="msisdn_error">দুঃখিত, ফোন নম্বর আপনার SIM কার্ড থেকে পড়া যায় না.সাহায্যের জন্য আপনার অপারেটর সাথে যোগাযোগ করুন.</string>
+    <string name="not_signed_in">আপনি বর্তমানে সাইন ইন না</string>
+    <string-array name="default_smiley_names">
+        <item>খুশি</item>
+        <item>দু: খিত</item>
+        <item>চোখের পিট্পিট্ - করণ</item>
+        <item>জিহ্বা স্টিকিং আউট</item>
+        <item>বিস্মিত</item>
+        <item>চুম্বন</item>
+        <item>চেঁচান</item>
+        <item>শীতল</item>
+        <item>টাকা মুখ</item>
+        <item>মুখের মধ্যে পাদদেশ</item>
+        <item>কাঁচুমাচু</item>
+        <item>দেবদূত</item>
+        <item>অব্যবস্থিতচিত্ত</item>
+        <item>ক্রন্দিত</item>
+        <item> নামমুদ্রাম্কিত করা হয়</item>
+        <item>হাস্যোদ্রেককর</item>
+        <item>বিভ্রান্ত</item>
+    </string-array>
+</resources>
