@@ -1,1 +1,4 @@
+2014-06-04: add beyond compare 3.2.3
+安装方法: 1. unrar x Beyond.Compare.v3.2.3.Linux.rar (没有unrar，sudo apt-get install unrar就ok了) 2. cd Beyond.Compare.v3.2.3.Linux 3. tar zxvf setup.tar.gz 4. cd bcompare-3.2.3.13046 5. cp ../keygen ./ 6. sudo chmod 777 keygen 7. ./keygen 8. 你懂的，其他的具体提示随便输入 9. ./install.sh (目录就提示的吧 /hl/home或者其他的. hl - 视情况而定) 10. 去/hl/home/bin/目录下点击或者./bcompare 就ok了。
+
 2012-03-29: creat
